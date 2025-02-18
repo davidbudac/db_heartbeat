@@ -196,7 +196,16 @@ public class OracleDBConnect {
             props.setProperty("oracle.net.tns_admin", configProps.getProperty("wallet.tns_admin"));
         }
         
-        return DriverManager.getConnection(url, props);
+        Connection conn = DriverManager.getConnection(url, props);
+        
+        // Set module name for the connection
+        try {
+            conn.setClientInfo("OCSID.MODULE", "DB_HEARTBEAT");
+        } catch (SQLClientInfoException e) {
+            LOGGER.log(Level.WARNING, "Could not set module name: " + e.getMessage(), e);
+        }
+        
+        return conn;
     }
 
     private static void logOperation(String database, String operation, long duration, long delta) {
