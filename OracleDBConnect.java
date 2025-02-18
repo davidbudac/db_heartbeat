@@ -4,9 +4,7 @@ import java.util.Properties;
 import java.util.HashSet;
 import java.util.Set;
 import java.sql.*;
-import java.time.Instant;
 import java.time.LocalDateTime;
-import java.time.ZoneId;
 import java.time.format.DateTimeFormatter;
 import java.util.logging.*;
 import java.util.ArrayList;
@@ -94,7 +92,7 @@ public class OracleDBConnect {
                     logOperation(dbName, "commit", commitDuration, commitStartTime - lastOperationTime);
 
                     // Log iteration completion
-                    LOGGER.log(Level.FINE, String.format("Database %s completed iteration %d of 10", dbName, i + 1));
+                    LOGGER.log(Level.FINE, String.format("Database %s completed iteration %d of %d", dbName, i + 1, iterations));
 
                 } catch (SQLException e) {
                     LOGGER.log(Level.SEVERE, "Database error: " + e.getMessage(), e);
@@ -140,7 +138,9 @@ public class OracleDBConnect {
             System.setProperty("oracle.net.wallet_location", configProps.getProperty("wallet.location"));
             System.setProperty("oracle.net.tns_admin", configProps.getProperty("wallet.tns_admin"));
             
-            CSV_LOGGER.info("database,operation,timestamp,duration_ms,time_between_ms");
+            if (new java.io.File("log.csv").length() == 0) {
+                CSV_LOGGER.info("database,operation,timestamp,duration_ms,time_between_ms");
+            }
 
             // Load SQL statements
             sqlProps = new Properties();

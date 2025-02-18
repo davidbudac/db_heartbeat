@@ -1,3 +1,2 @@
-Class-Path: ojdbc8.jar
+Class-Path: ./lib/ojdbc8.jar
 Main-Class: OracleDBConnect
-

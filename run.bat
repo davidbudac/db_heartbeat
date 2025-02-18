@@ -1,10 +1,10 @@
 set ORACLE_HOME=c:\app\client\david\product\19.0.0\client_1
 
-rem Compile
-%ORACLE_HOME%\jdk\bin\javac.exe -cp ".;%ORACLE_HOME%\jlib\oraclepki.jar;%ORACLE_HOME%\jlib\osdt_core.jar;%ORACLE_HOME%\jlib\osdt_cert.jar;%ORACLE_HOME%\jdbc\lib\ojdbc8.jar" OracleDBConnect.java 
+cp %ORACLE_HOME%\jdbc\lib\ojdbc8.jar .\lib
+cp %ORACLE_HOME%\jlib\oraclepki.jar .\lib
+cp %ORACLE_HOME%\jlib\osdt_core.jar .\lib
+cp %ORACLE_HOME%\jlib\osdt_cert.jar .\lib
 
-# Create JAR with all dependencies
-%ORACLE_HOME%\jdk\bin\jar cvfm OracleDBConnect.jar manifest.txt *.class ojdbc8.jar oraclepki.jar osdt_core.jar osdt_cert.jar
-
-# Run
-%ORACLE_HOME%\jdk\bin\java -jar OracleDBConnect.jar
+%ORACLE_HOME%\jdk\bin\javac.exe -cp ".;.\lib\oraclepki.jar;.\lib\osdt_core.jar;.\lib\osdt_cert.jar;.\lib\ojdbc8.jar" OracleDBConnect.java 
+%ORACLE_HOME%\jdk\bin\jar.exe cvfm OracleDBConnect.jar manifest.txt *.class .\jdbc\ojdbc8.jar .\lib\oraclepki.jar .\lib\osdt_core.jar .\lib\osdt_cert.jar
+%ORACLE_HOME%\jdk\bin\java.exe -cp ".;.\lib\oraclepki.jar;.\lib\osdt_core.jar;.\lib\osdt_cert.jar;.\jdbc\lib\ojdbc8.jar"  -jar OracleDBConnect.jar
