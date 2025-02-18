@@ -1,13 +1,34 @@
 # Compiled class files
 *.class
 
+# Package files
+*.jar
+*.war
+*.nar
+*.ear
+
+# Log files
+*.log
 
 # IDE specific files
 .idea/
 .vscode/
 *.iml
 *.iws
-*.ipr
+.settings/
+.classpath
+.project
+
+# Oracle specific
+tnsnames.ora
+sqlnet.ora
+*.wallet
+*.jks
+
+# Build directories
+target/
+build/
+out/
 
 
 # Mac specific files
