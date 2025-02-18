@@ -1,0 +1,1207 @@
+Feb 14, 2025 11:20:58 PM OracleDBConnect$DatabaseWorker run
+INFO: Starting test cycle for database: DB1
+Feb 14, 2025 11:20:58 PM OracleDBConnect$DatabaseWorker run
+INFO: Starting test cycle for database: DB3
+Feb 14, 2025 11:20:58 PM OracleDBConnect$DatabaseWorker run
+INFO: Starting test cycle for database: DB2
+Feb 14, 2025 11:20:58 PM OracleDBConnect$DatabaseWorker run
+INFO: Starting test cycle for database: DB5
+Feb 14, 2025 11:20:58 PM OracleDBConnect$DatabaseWorker run
+INFO: Starting test cycle for database: DB4
+Feb 14, 2025 11:20:58 PM OracleDBConnect$DatabaseWorker run
+INFO: Starting test cycle for database: DB6
+Feb 14, 2025 11:21:10 PM OracleDBConnect$DatabaseWorker run
+INFO: Completed test cycle for database: DB2
+Feb 14, 2025 11:21:10 PM OracleDBConnect$DatabaseWorker run
+INFO: Completed test cycle for database: DB5
+Feb 14, 2025 11:21:10 PM OracleDBConnect$DatabaseWorker run
+INFO: Completed test cycle for database: DB1
+Feb 14, 2025 11:21:10 PM OracleDBConnect$DatabaseWorker run
+INFO: Completed test cycle for database: DB4
+Feb 14, 2025 11:21:10 PM OracleDBConnect$DatabaseWorker run
+INFO: Completed test cycle for database: DB6
+Feb 14, 2025 11:21:10 PM OracleDBConnect$DatabaseWorker run
+INFO: Completed test cycle for database: DB3
+Feb 14, 2025 11:23:53 PM OracleDBConnect$DatabaseWorker run
+INFO: Starting test cycle for database: DB1
+Feb 14, 2025 11:23:53 PM OracleDBConnect$DatabaseWorker run
+INFO: Starting test cycle for database: DB3
+Feb 14, 2025 11:23:53 PM OracleDBConnect$DatabaseWorker run
+INFO: Starting test cycle for database: DB2
+Feb 14, 2025 11:23:53 PM OracleDBConnect$DatabaseWorker run
+INFO: Starting test cycle for database: DB5
+Feb 14, 2025 11:23:53 PM OracleDBConnect$DatabaseWorker run
+INFO: Starting test cycle for database: DB4
+Feb 14, 2025 11:23:53 PM OracleDBConnect$DatabaseWorker run
+INFO: Starting test cycle for database: DB6
+Feb 14, 2025 11:23:58 PM OracleDBConnect$DatabaseWorker run
+INFO: Completed test cycle for database: DB2
+Feb 14, 2025 11:24:05 PM OracleDBConnect$DatabaseWorker run
+INFO: Completed test cycle for database: DB5
+Feb 14, 2025 11:24:05 PM OracleDBConnect$DatabaseWorker run
+INFO: Completed test cycle for database: DB1
+Feb 14, 2025 11:24:05 PM OracleDBConnect$DatabaseWorker run
+INFO: Completed test cycle for database: DB6
+Feb 14, 2025 11:24:05 PM OracleDBConnect$DatabaseWorker run
+INFO: Completed test cycle for database: DB4
+Feb 14, 2025 11:24:05 PM OracleDBConnect$DatabaseWorker run
+INFO: Completed test cycle for database: DB3
+2025-02-14 23:26:10.803 INFO: Starting test cycle for database: DB1
+2025-02-14 23:26:10.813 INFO: Starting test cycle for database: DB3
+2025-02-14 23:26:10.814 INFO: Starting test cycle for database: DB2
+2025-02-14 23:26:10.814 INFO: Starting test cycle for database: DB5
+2025-02-14 23:26:10.814 INFO: Starting test cycle for database: DB4
+2025-02-14 23:26:10.814 INFO: Starting test cycle for database: DB6
+2025-02-14 23:26:14.833 INFO: Completed test cycle for database: DB5
+2025-02-14 23:26:15.665 INFO: Completed test cycle for database: DB6
+2025-02-14 23:26:22.507 INFO: Completed test cycle for database: DB1
+2025-02-14 23:26:22.507 INFO: Completed test cycle for database: DB4
+2025-02-14 23:26:31.355 INFO: Completed test cycle for database: DB3
+2025-02-14 23:26:31.380 INFO: Completed test cycle for database: DB2
+2025-02-14 23:30:03.199 INFO: Starting test cycle for database: DB1
+2025-02-14 23:30:03.210 INFO: Starting test cycle for database: DB3
+2025-02-14 23:30:03.210 INFO: Starting test cycle for database: DB2
+2025-02-14 23:30:03.211 INFO: Starting test cycle for database: DB5
+2025-02-14 23:30:03.211 INFO: Starting test cycle for database: DB4
+2025-02-14 23:30:03.211 INFO: Starting test cycle for database: DB6
+2025-02-14 23:30:06.973 INFO: Completed test cycle for database: DB5
+2025-02-14 23:30:07.869 INFO: Completed test cycle for database: DB6
+2025-02-14 23:30:15.060 INFO: Completed test cycle for database: DB4
+2025-02-14 23:30:15.061 INFO: Completed test cycle for database: DB1
+2025-02-14 23:30:24.051 INFO: Completed test cycle for database: DB2
+2025-02-14 23:30:24.055 INFO: Completed test cycle for database: DB3
+2025-02-14 23:32:55.860 INFO: Starting test cycle for database: DB1
+2025-02-14 23:32:55.871 INFO: Starting test cycle for database: DB3
+2025-02-14 23:32:55.872 INFO: Starting test cycle for database: DB2
+2025-02-14 23:32:55.872 INFO: Starting test cycle for database: DB5
+2025-02-14 23:32:55.872 INFO: Starting test cycle for database: DB4
+2025-02-14 23:32:55.872 INFO: Starting test cycle for database: DB6
+2025-02-14 23:32:57.018 FINE: Database DB1 completed iteration 1 of 10
+2025-02-14 23:32:57.022 FINE: Database DB4 completed iteration 1 of 10
+2025-02-14 23:32:57.025 FINE: Database DB6 completed iteration 1 of 10
+2025-02-14 23:32:57.031 FINE: Database DB2 completed iteration 1 of 10
+2025-02-14 23:32:57.035 FINE: Database DB3 completed iteration 1 of 10
+2025-02-14 23:32:57.035 FINE: Database DB5 completed iteration 1 of 10
+2025-02-14 23:32:57.323 FINE: Database DB5 completed iteration 2 of 10
+2025-02-14 23:32:57.396 FINE: Database DB6 completed iteration 2 of 10
+2025-02-14 23:32:57.617 FINE: Database DB5 completed iteration 3 of 10
+2025-02-14 23:32:57.773 FINE: Database DB6 completed iteration 3 of 10
+2025-02-14 23:32:57.888 FINE: Database DB5 completed iteration 4 of 10
+2025-02-14 23:32:58.132 FINE: Database DB6 completed iteration 4 of 10
+2025-02-14 23:32:58.164 FINE: Database DB5 completed iteration 5 of 10
+2025-02-14 23:32:58.200 FINE: Database DB1 completed iteration 2 of 10
+2025-02-14 23:32:58.204 FINE: Database DB4 completed iteration 2 of 10
+2025-02-14 23:32:58.541 FINE: Database DB5 completed iteration 6 of 10
+2025-02-14 23:32:58.573 FINE: Database DB6 completed iteration 5 of 10
+2025-02-14 23:32:58.799 FINE: Database DB5 completed iteration 7 of 10
+2025-02-14 23:32:58.941 FINE: Database DB6 completed iteration 6 of 10
+2025-02-14 23:32:59.083 FINE: Database DB5 completed iteration 8 of 10
+2025-02-14 23:32:59.282 FINE: Database DB3 completed iteration 2 of 10
+2025-02-14 23:32:59.282 FINE: Database DB2 completed iteration 2 of 10
+2025-02-14 23:32:59.405 FINE: Database DB5 completed iteration 9 of 10
+2025-02-14 23:32:59.413 FINE: Database DB1 completed iteration 3 of 10
+2025-02-14 23:32:59.444 FINE: Database DB4 completed iteration 3 of 10
+2025-02-14 23:32:59.444 FINE: Database DB6 completed iteration 7 of 10
+2025-02-14 23:32:59.673 FINE: Database DB5 completed iteration 10 of 10
+2025-02-14 23:32:59.682 INFO: Completed test cycle for database: DB5
+2025-02-14 23:32:59.801 FINE: Database DB6 completed iteration 8 of 10
+2025-02-14 23:33:00.173 FINE: Database DB6 completed iteration 9 of 10
+2025-02-14 23:33:00.577 FINE: Database DB6 completed iteration 10 of 10
+2025-02-14 23:33:00.588 INFO: Completed test cycle for database: DB6
+2025-02-14 23:33:00.622 FINE: Database DB4 completed iteration 4 of 10
+2025-02-14 23:33:00.635 FINE: Database DB1 completed iteration 4 of 10
+2025-02-14 23:33:01.464 FINE: Database DB3 completed iteration 3 of 10
+2025-02-14 23:33:01.466 FINE: Database DB2 completed iteration 3 of 10
+2025-02-14 23:33:01.789 FINE: Database DB4 completed iteration 5 of 10
+2025-02-14 23:33:01.797 FINE: Database DB1 completed iteration 5 of 10
+2025-02-14 23:33:02.970 FINE: Database DB4 completed iteration 6 of 10
+2025-02-14 23:33:02.970 FINE: Database DB1 completed iteration 6 of 10
+2025-02-14 23:33:03.638 FINE: Database DB2 completed iteration 4 of 10
+2025-02-14 23:33:03.641 FINE: Database DB3 completed iteration 4 of 10
+2025-02-14 23:33:04.132 FINE: Database DB1 completed iteration 7 of 10
+2025-02-14 23:33:04.134 FINE: Database DB4 completed iteration 7 of 10
+2025-02-14 23:33:05.310 FINE: Database DB4 completed iteration 8 of 10
+2025-02-14 23:33:05.324 FINE: Database DB1 completed iteration 8 of 10
+2025-02-14 23:33:05.799 FINE: Database DB3 completed iteration 5 of 10
+2025-02-14 23:33:05.801 FINE: Database DB2 completed iteration 5 of 10
+2025-02-14 23:33:06.465 FINE: Database DB4 completed iteration 9 of 10
+2025-02-14 23:33:06.470 FINE: Database DB1 completed iteration 9 of 10
+2025-02-14 23:33:07.630 FINE: Database DB1 completed iteration 10 of 10
+2025-02-14 23:33:07.640 FINE: Database DB4 completed iteration 10 of 10
+2025-02-14 23:33:07.640 INFO: Completed test cycle for database: DB1
+2025-02-14 23:33:07.650 INFO: Completed test cycle for database: DB4
+2025-02-14 23:33:08.019 FINE: Database DB2 completed iteration 6 of 10
+2025-02-14 23:33:08.039 FINE: Database DB3 completed iteration 6 of 10
+2025-02-14 23:33:10.192 FINE: Database DB2 completed iteration 7 of 10
+2025-02-14 23:33:10.198 FINE: Database DB3 completed iteration 7 of 10
+2025-02-14 23:33:12.356 FINE: Database DB3 completed iteration 8 of 10
+2025-02-14 23:33:12.360 FINE: Database DB2 completed iteration 8 of 10
+2025-02-14 23:33:14.532 FINE: Database DB3 completed iteration 9 of 10
+2025-02-14 23:33:14.538 FINE: Database DB2 completed iteration 9 of 10
+2025-02-14 23:33:16.707 FINE: Database DB3 completed iteration 10 of 10
+2025-02-14 23:33:16.707 FINE: Database DB2 completed iteration 10 of 10
+2025-02-14 23:33:16.715 INFO: Completed test cycle for database: DB2
+2025-02-14 23:33:16.715 INFO: Completed test cycle for database: DB3
+2025-02-14 23:34:48.539 INFO: Starting test cycle for database: DB1
+2025-02-14 23:34:48.550 INFO: Starting test cycle for database: DB3
+2025-02-14 23:34:48.550 INFO: Starting test cycle for database: DB2
+2025-02-14 23:34:48.551 INFO: Starting test cycle for database: DB5
+2025-02-14 23:34:48.551 INFO: Starting test cycle for database: DB4
+2025-02-14 23:34:48.551 INFO: Starting test cycle for database: DB6
+2025-02-14 23:34:49.678 DEBUG: Database DB2 completed iteration 1 of 10
+2025-02-14 23:34:49.683 DEBUG: Database DB4 completed iteration 1 of 10
+2025-02-14 23:34:49.684 DEBUG: Database DB3 completed iteration 1 of 10
+2025-02-14 23:34:49.686 DEBUG: Database DB6 completed iteration 1 of 10
+2025-02-14 23:34:49.694 DEBUG: Database DB5 completed iteration 1 of 10
+2025-02-14 23:34:49.694 DEBUG: Database DB1 completed iteration 1 of 10
+2025-02-14 23:34:49.955 DEBUG: Database DB5 completed iteration 2 of 10
+2025-02-14 23:34:50.044 DEBUG: Database DB6 completed iteration 2 of 10
+2025-02-14 23:34:50.198 DEBUG: Database DB5 completed iteration 3 of 10
+2025-02-14 23:34:50.414 DEBUG: Database DB6 completed iteration 3 of 10
+2025-02-14 23:34:50.448 DEBUG: Database DB5 completed iteration 4 of 10
+2025-02-14 23:34:50.702 DEBUG: Database DB5 completed iteration 5 of 10
+2025-02-14 23:34:50.801 DEBUG: Database DB6 completed iteration 4 of 10
+2025-02-14 23:34:50.889 DEBUG: Database DB4 completed iteration 2 of 10
+2025-02-14 23:34:50.913 DEBUG: Database DB1 completed iteration 2 of 10
+2025-02-14 23:34:50.994 DEBUG: Database DB5 completed iteration 6 of 10
+2025-02-14 23:34:51.178 DEBUG: Database DB6 completed iteration 5 of 10
+2025-02-14 23:34:51.256 DEBUG: Database DB5 completed iteration 7 of 10
+2025-02-14 23:34:51.519 DEBUG: Database DB5 completed iteration 8 of 10
+2025-02-14 23:34:51.546 DEBUG: Database DB6 completed iteration 6 of 10
+2025-02-14 23:34:51.793 DEBUG: Database DB5 completed iteration 9 of 10
+2025-02-14 23:34:51.856 DEBUG: Database DB3 completed iteration 2 of 10
+2025-02-14 23:34:51.860 DEBUG: Database DB2 completed iteration 2 of 10
+2025-02-14 23:34:51.927 DEBUG: Database DB6 completed iteration 7 of 10
+2025-02-14 23:34:52.142 DEBUG: Database DB4 completed iteration 3 of 10
+2025-02-14 23:34:52.163 DEBUG: Database DB5 completed iteration 10 of 10
+2025-02-14 23:34:52.171 INFO: Completed test cycle for database: DB5
+2025-02-14 23:34:52.171 DEBUG: Database DB1 completed iteration 3 of 10
+2025-02-14 23:34:52.268 DEBUG: Database DB6 completed iteration 8 of 10
+2025-02-14 23:34:52.645 DEBUG: Database DB6 completed iteration 9 of 10
+2025-02-14 23:34:53.036 DEBUG: Database DB6 completed iteration 10 of 10
+2025-02-14 23:34:53.045 INFO: Completed test cycle for database: DB6
+2025-02-14 23:34:53.307 DEBUG: Database DB4 completed iteration 4 of 10
+2025-02-14 23:34:53.337 DEBUG: Database DB1 completed iteration 4 of 10
+2025-02-14 23:34:54.028 DEBUG: Database DB2 completed iteration 3 of 10
+2025-02-14 23:34:54.032 DEBUG: Database DB3 completed iteration 3 of 10
+2025-02-14 23:34:54.483 DEBUG: Database DB4 completed iteration 5 of 10
+2025-02-14 23:34:54.514 DEBUG: Database DB1 completed iteration 5 of 10
+2025-02-14 23:34:55.649 DEBUG: Database DB4 completed iteration 6 of 10
+2025-02-14 23:34:55.681 DEBUG: Database DB1 completed iteration 6 of 10
+2025-02-14 23:34:56.202 DEBUG: Database DB3 completed iteration 4 of 10
+2025-02-14 23:34:56.205 DEBUG: Database DB2 completed iteration 4 of 10
+2025-02-14 23:34:56.831 DEBUG: Database DB4 completed iteration 7 of 10
+2025-02-14 23:34:56.856 DEBUG: Database DB1 completed iteration 7 of 10
+2025-02-14 23:34:58.004 DEBUG: Database DB4 completed iteration 8 of 10
+2025-02-14 23:34:58.017 DEBUG: Database DB1 completed iteration 8 of 10
+2025-02-14 23:34:58.371 DEBUG: Database DB2 completed iteration 5 of 10
+2025-02-14 23:34:58.376 DEBUG: Database DB3 completed iteration 5 of 10
+2025-02-14 23:34:59.183 DEBUG: Database DB1 completed iteration 9 of 10
+2025-02-14 23:34:59.183 DEBUG: Database DB4 completed iteration 9 of 10
+2025-02-14 23:35:00.344 DEBUG: Database DB4 completed iteration 10 of 10
+2025-02-14 23:35:00.345 DEBUG: Database DB1 completed iteration 10 of 10
+2025-02-14 23:35:00.350 INFO: Completed test cycle for database: DB4
+2025-02-14 23:35:00.354 INFO: Completed test cycle for database: DB1
+2025-02-14 23:35:00.548 DEBUG: Database DB3 completed iteration 6 of 10
+2025-02-14 23:35:00.548 DEBUG: Database DB2 completed iteration 6 of 10
+2025-02-14 23:35:02.717 DEBUG: Database DB3 completed iteration 7 of 10
+2025-02-14 23:35:02.719 DEBUG: Database DB2 completed iteration 7 of 10
+2025-02-14 23:35:04.911 DEBUG: Database DB2 completed iteration 8 of 10
+2025-02-14 23:35:04.911 DEBUG: Database DB3 completed iteration 8 of 10
+2025-02-14 23:35:07.091 DEBUG: Database DB2 completed iteration 9 of 10
+2025-02-14 23:35:07.091 DEBUG: Database DB3 completed iteration 9 of 10
+2025-02-14 23:35:09.263 DEBUG: Database DB2 completed iteration 10 of 10
+2025-02-14 23:35:09.268 DEBUG: Database DB3 completed iteration 10 of 10
+2025-02-14 23:35:09.272 INFO: Completed test cycle for database: DB2
+2025-02-14 23:35:09.281 INFO: Completed test cycle for database: DB3
+2025-02-14 23:42:25.096 INFO: Starting test cycle for database: DB1
+2025-02-14 23:42:25.108 INFO: Starting test cycle for database: DB3
+2025-02-14 23:42:25.108 INFO: Starting test cycle for database: DB2
+2025-02-14 23:42:25.108 INFO: Starting test cycle for database: DB5
+2025-02-14 23:42:25.108 INFO: Starting test cycle for database: DB4
+2025-02-14 23:42:25.109 INFO: Starting test cycle for database: DB6
+2025-02-14 23:42:25.590 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/pki/OracleWallet
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:42:25.590 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/pki/OracleWallet
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:42:25.591 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/pki/OracleWallet
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:42:25.591 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/pki/OracleWallet
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:42:25.591 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/pki/OracleWallet
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:42:25.591 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/pki/OracleWallet
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:42:25.704 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/pki/OracleWallet
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:42:25.795 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/pki/OracleWallet
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:42:25.813 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/pki/OracleWallet
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:42:25.923 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/pki/OracleWallet
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:42:26.003 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/pki/OracleWallet
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:42:26.031 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/pki/OracleWallet
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:42:26.140 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/pki/OracleWallet
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:42:26.212 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/pki/OracleWallet
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:42:26.245 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/pki/OracleWallet
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:42:26.348 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/pki/OracleWallet
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:42:26.423 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/pki/OracleWallet
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:42:26.455 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/pki/OracleWallet
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:42:26.559 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/pki/OracleWallet
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:42:26.559 INFO: Completed test cycle for database: DB5
+2025-02-14 23:42:26.597 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/pki/OracleWallet
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:42:26.600 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/pki/OracleWallet
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:42:26.629 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/pki/OracleWallet
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:42:26.839 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/pki/OracleWallet
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:42:27.044 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/pki/OracleWallet
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:49:49.745 INFO: Starting test cycle for database: DB1
+2025-02-14 23:49:49.758 INFO: Starting test cycle for database: DB3
+2025-02-14 23:49:49.758 INFO: Starting test cycle for database: DB2
+2025-02-14 23:49:49.758 INFO: Starting test cycle for database: DB5
+2025-02-14 23:49:49.758 INFO: Starting test cycle for database: DB4
+2025-02-14 23:49:49.758 INFO: Starting test cycle for database: DB6
+2025-02-14 23:49:50.199 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/PrivateKey
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:49:50.201 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/PrivateKey
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:49:50.202 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/PrivateKey
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:49:50.202 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/PrivateKey
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:49:50.203 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/PrivateKey
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:49:50.204 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/PrivateKey
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:49:50.309 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/PrivateKey
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:49:50.409 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/PrivateKey
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:49:50.420 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/PrivateKey
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:49:50.529 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/PrivateKey
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:49:50.621 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/PrivateKey
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:49:50.636 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/PrivateKey
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:49:50.743 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/PrivateKey
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:49:50.832 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/PrivateKey
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:49:50.850 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/PrivateKey
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:49:50.961 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/PrivateKey
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:49:51.041 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/PrivateKey
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:49:51.069 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/PrivateKey
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:49:51.178 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/PrivateKey
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:49:51.179 INFO: Completed test cycle for database: DB5
+2025-02-14 23:49:51.213 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/PrivateKey
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:49:51.213 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/PrivateKey
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:49:51.251 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/PrivateKey
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:50:54.720 INFO: Starting test cycle for database: DB1
+2025-02-14 23:50:54.731 INFO: Starting test cycle for database: DB3
+2025-02-14 23:50:54.731 INFO: Starting test cycle for database: DB2
+2025-02-14 23:50:54.731 INFO: Starting test cycle for database: DB5
+2025-02-14 23:50:54.731 INFO: Starting test cycle for database: DB4
+2025-02-14 23:50:54.732 INFO: Starting test cycle for database: DB6
+2025-02-14 23:50:55.208 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/AuthenticationException
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:50:55.209 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/AuthenticationException
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:50:55.209 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/AuthenticationException
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:50:55.209 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/AuthenticationException
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:50:55.210 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/AuthenticationException
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:50:55.210 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/AuthenticationException
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:50:55.323 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/AuthenticationException
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:50:55.419 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/AuthenticationException
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:50:55.439 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/AuthenticationException
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:50:55.547 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/AuthenticationException
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:50:55.632 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/AuthenticationException
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:50:55.663 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/AuthenticationException
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:50:55.770 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/AuthenticationException
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:52:25.079 INFO: Starting test cycle for database: DB1
+2025-02-14 23:52:25.091 INFO: Starting test cycle for database: DB3
+2025-02-14 23:52:25.091 INFO: Starting test cycle for database: DB2
+2025-02-14 23:52:25.091 INFO: Starting test cycle for database: DB5
+2025-02-14 23:52:25.091 INFO: Starting test cycle for database: DB4
+2025-02-14 23:52:25.092 INFO: Starting test cycle for database: DB6
+2025-02-14 23:52:25.530 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/AuthenticationException
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:52:25.530 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/AuthenticationException
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:52:25.530 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/AuthenticationException
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:52:25.530 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/AuthenticationException
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:52:25.530 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/AuthenticationException
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:52:25.531 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/AuthenticationException
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:52:25.642 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/AuthenticationException
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:52:25.743 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/AuthenticationException
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:52:25.755 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/AuthenticationException
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:52:25.865 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/AuthenticationException
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:52:25.953 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/AuthenticationException
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:52:25.973 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/AuthenticationException
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:53:55.999 INFO: Starting test cycle for database: DB1
+2025-02-14 23:53:56.009 INFO: Starting test cycle for database: DB3
+2025-02-14 23:53:56.010 INFO: Starting test cycle for database: DB2
+2025-02-14 23:53:56.010 INFO: Starting test cycle for database: DB5
+2025-02-14 23:53:56.010 INFO: Starting test cycle for database: DB4
+2025-02-14 23:53:56.010 INFO: Starting test cycle for database: DB6
+2025-02-14 23:53:56.454 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/AuthenticationException
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:53:56.454 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/AuthenticationException
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:53:56.455 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/AuthenticationException
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:53:56.455 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/AuthenticationException
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:53:56.456 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/AuthenticationException
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:53:56.456 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/AuthenticationException
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:53:56.568 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/AuthenticationException
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:53:56.665 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/AuthenticationException
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:53:56.678 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/AuthenticationException
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:53:56.788 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/AuthenticationException
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:53:56.873 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/AuthenticationException
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:53:56.898 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/AuthenticationException
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:53:57.004 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/AuthenticationException
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:53:57.077 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/AuthenticationException
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:53:57.113 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/AuthenticationException
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:53:57.223 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/AuthenticationException
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:53:57.288 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/AuthenticationException
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:53:57.330 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/AuthenticationException
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:55:35.797 INFO: Starting test cycle for database: DB1
+2025-02-14 23:55:35.813 INFO: Starting test cycle for database: DB3
+2025-02-14 23:55:35.813 INFO: Starting test cycle for database: DB2
+2025-02-14 23:55:35.813 INFO: Starting test cycle for database: DB5
+2025-02-14 23:55:35.814 INFO: Starting test cycle for database: DB4
+2025-02-14 23:55:35.814 INFO: Starting test cycle for database: DB6
+2025-02-14 23:55:36.282 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/AuthenticationException
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:55:36.282 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/AuthenticationException
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:55:36.283 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/AuthenticationException
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:55:36.283 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/AuthenticationException
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:55:36.284 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/AuthenticationException
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:55:36.284 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/AuthenticationException
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:55:36.397 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/AuthenticationException
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:55:36.493 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/AuthenticationException
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:55:36.504 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/AuthenticationException
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:55:36.611 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/AuthenticationException
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:55:36.701 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/AuthenticationException
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:55:36.721 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/AuthenticationException
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:55:36.829 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/AuthenticationException
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:57:09.270 INFO: Starting test cycle for database: DB1
+2025-02-14 23:57:09.282 INFO: Starting test cycle for database: DB3
+2025-02-14 23:57:09.282 INFO: Starting test cycle for database: DB2
+2025-02-14 23:57:09.283 INFO: Starting test cycle for database: DB5
+2025-02-14 23:57:09.283 INFO: Starting test cycle for database: DB4
+2025-02-14 23:57:09.284 INFO: Starting test cycle for database: DB6
+2025-02-14 23:57:09.798 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/PrivateKey
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:57:09.800 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/PrivateKey
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:57:09.800 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/PrivateKey
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:57:09.800 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/PrivateKey
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:57:09.802 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/PrivateKey
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:57:09.804 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/PrivateKey
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:57:09.915 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/PrivateKey
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:57:10.014 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/PrivateKey
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:57:10.024 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/PrivateKey
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:57:10.135 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/PrivateKey
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:57:10.225 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/PrivateKey
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:57:10.244 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/PrivateKey
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:57:10.353 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/PrivateKey
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:57:10.437 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/PrivateKey
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:57:10.461 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/PrivateKey
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:57:10.569 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/PrivateKey
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:57:10.647 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/PrivateKey
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:57:10.677 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/PrivateKey
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:57:10.787 SEVERE: Database error: ORA-17167: Public Key Infrastructure (PKI) classes not found. To use 'connect /' functionality, oraclepki.jar must be in the classpath: java.lang.NoClassDefFoundError: oracle/security/crypto/core/PrivateKey
+https://docs.oracle.com/error-help/db/ora-17167/
+2025-02-14 23:59:19.092 INFO: Starting test cycle for database: DB1
+2025-02-14 23:59:19.104 INFO: Starting test cycle for database: DB3
+2025-02-14 23:59:19.104 INFO: Starting test cycle for database: DB2
+2025-02-14 23:59:19.104 INFO: Starting test cycle for database: DB5
+2025-02-14 23:59:19.104 INFO: Starting test cycle for database: DB4
+2025-02-14 23:59:19.104 INFO: Starting test cycle for database: DB6
+2025-02-14 23:59:25.993 SEVERE: Database error: ORA-01017: invalid username/password; logon denied
+
+https://docs.oracle.com/error-help/db/ora-01017/
+2025-02-15 00:02:24.021 INFO: Starting test cycle for database: DB1
+2025-02-15 00:02:24.035 INFO: Starting test cycle for database: DB2
+2025-02-15 00:02:24.571 SEVERE: Database error: ORA-12263: Failed to access tnsnames.ora in the directory configured as TNS admin: /path/to/wallet. The file does not exist, or is not accessible.
+https://docs.oracle.com/error-help/db/ora-12263/
+2025-02-15 00:02:24.571 SEVERE: Database error: ORA-12263: Failed to access tnsnames.ora in the directory configured as TNS admin: /path/to/wallet. The file does not exist, or is not accessible.
+https://docs.oracle.com/error-help/db/ora-12263/
+2025-02-15 00:02:25.589 SEVERE: Database error: ORA-12263: Failed to access tnsnames.ora in the directory configured as TNS admin: /path/to/wallet. The file does not exist, or is not accessible.
+https://docs.oracle.com/error-help/db/ora-12263/
+2025-02-15 00:02:26.591 SEVERE: Database error: ORA-12263: Failed to access tnsnames.ora in the directory configured as TNS admin: /path/to/wallet. The file does not exist, or is not accessible.
+https://docs.oracle.com/error-help/db/ora-12263/
+2025-02-15 00:02:26.604 SEVERE: Database error: ORA-12263: Failed to access tnsnames.ora in the directory configured as TNS admin: /path/to/wallet. The file does not exist, or is not accessible.
+https://docs.oracle.com/error-help/db/ora-12263/
+2025-02-15 00:03:16.678 INFO: Starting test cycle for database: DB1
+2025-02-15 00:03:16.689 INFO: Starting test cycle for database: DB2
+2025-02-15 00:03:17.239 SEVERE: Database error: ORA-12263: Failed to access tnsnames.ora in the directory configured as TNS admin: /path/to/wallet. The file does not exist, or is not accessible.
+https://docs.oracle.com/error-help/db/ora-12263/
+2025-02-15 00:03:17.239 SEVERE: Database error: ORA-12263: Failed to access tnsnames.ora in the directory configured as TNS admin: /path/to/wallet. The file does not exist, or is not accessible.
+https://docs.oracle.com/error-help/db/ora-12263/
+2025-02-15 00:03:18.257 SEVERE: Database error: ORA-12263: Failed to access tnsnames.ora in the directory configured as TNS admin: /path/to/wallet. The file does not exist, or is not accessible.
+https://docs.oracle.com/error-help/db/ora-12263/
+2025-02-15 00:03:19.259 SEVERE: Database error: ORA-12263: Failed to access tnsnames.ora in the directory configured as TNS admin: /path/to/wallet. The file does not exist, or is not accessible.
+https://docs.oracle.com/error-help/db/ora-12263/
+2025-02-15 00:03:19.274 SEVERE: Database error: ORA-12263: Failed to access tnsnames.ora in the directory configured as TNS admin: /path/to/wallet. The file does not exist, or is not accessible.
+https://docs.oracle.com/error-help/db/ora-12263/
+2025-02-15 00:05:20.716 INFO: Starting test cycle for database: DB1
+2025-02-15 00:05:20.732 INFO: Starting test cycle for database: DB2
+2025-02-15 00:05:21.259 SEVERE: Database error: ORA-12263: Failed to access tnsnames.ora in the directory configured as TNS admin: /path/to/wallet. The file does not exist, or is not accessible.
+https://docs.oracle.com/error-help/db/ora-12263/
+2025-02-15 00:05:21.259 SEVERE: Database error: ORA-12263: Failed to access tnsnames.ora in the directory configured as TNS admin: /path/to/wallet. The file does not exist, or is not accessible.
+https://docs.oracle.com/error-help/db/ora-12263/
+2025-02-15 00:09:31.398 INFO: Starting test cycle for database: DB1
+2025-02-15 00:09:31.409 INFO: Starting test cycle for database: DB2
+2025-02-15 00:09:31.944 SEVERE: Database error: ORA-12263: Failed to access tnsnames.ora in the directory configured as TNS admin: /path/to/wallet. The file does not exist, or is not accessible.
+https://docs.oracle.com/error-help/db/ora-12263/
+2025-02-15 00:09:31.944 SEVERE: Database error: ORA-12263: Failed to access tnsnames.ora in the directory configured as TNS admin: /path/to/wallet. The file does not exist, or is not accessible.
+https://docs.oracle.com/error-help/db/ora-12263/
+2025-02-15 00:09:32.964 SEVERE: Database error: ORA-12263: Failed to access tnsnames.ora in the directory configured as TNS admin: /path/to/wallet. The file does not exist, or is not accessible.
+https://docs.oracle.com/error-help/db/ora-12263/
+2025-02-15 00:09:33.964 SEVERE: Database error: ORA-12263: Failed to access tnsnames.ora in the directory configured as TNS admin: /path/to/wallet. The file does not exist, or is not accessible.
+https://docs.oracle.com/error-help/db/ora-12263/
+2025-02-15 00:09:33.978 SEVERE: Database error: ORA-12263: Failed to access tnsnames.ora in the directory configured as TNS admin: /path/to/wallet. The file does not exist, or is not accessible.
+https://docs.oracle.com/error-help/db/ora-12263/
+2025-02-15 00:09:34.990 SEVERE: Database error: ORA-12263: Failed to access tnsnames.ora in the directory configured as TNS admin: /path/to/wallet. The file does not exist, or is not accessible.
+https://docs.oracle.com/error-help/db/ora-12263/
+2025-02-15 00:24:32.371 INFO: Starting test cycle for database: DB1
+2025-02-15 00:24:32.384 INFO: Starting test cycle for database: DB2
+2025-02-15 00:24:32.910 SEVERE: Database error: ORA-12263: Failed to access tnsnames.ora in the directory configured as TNS admin: /path/to/wallet. The file does not exist, or is not accessible.
+https://docs.oracle.com/error-help/db/ora-12263/
+2025-02-15 00:24:32.911 SEVERE: Database error: ORA-12263: Failed to access tnsnames.ora in the directory configured as TNS admin: /path/to/wallet. The file does not exist, or is not accessible.
+https://docs.oracle.com/error-help/db/ora-12263/
+2025-02-15 21:09:06.000 INFO: Starting test cycle for database: DB1
+2025-02-15 21:09:06.016 INFO: Starting test cycle for database: DB2
+2025-02-15 21:09:07.930 SEVERE: Database error: ORA-12263: Failed to access tnsnames.ora in the directory configured as TNS admin: /path/to/wallet. The file does not exist, or is not accessible.
+https://docs.oracle.com/error-help/db/ora-12263/
+2025-02-15 21:09:07.937 SEVERE: Database error: ORA-12263: Failed to access tnsnames.ora in the directory configured as TNS admin: /path/to/wallet. The file does not exist, or is not accessible.
+https://docs.oracle.com/error-help/db/ora-12263/
+2025-02-15 21:09:08.950 SEVERE: Database error: ORA-12263: Failed to access tnsnames.ora in the directory configured as TNS admin: /path/to/wallet. The file does not exist, or is not accessible.
+https://docs.oracle.com/error-help/db/ora-12263/
+2025-02-15 21:11:15.720 INFO: Starting test cycle for database: DB1
+2025-02-15 21:11:15.732 INFO: Starting test cycle for database: DB2
+2025-02-15 21:11:16.301 SEVERE: Database error: ORA-12263: Failed to access tnsnames.ora in the directory configured as TNS admin: /path/to/wallet. The file does not exist, or is not accessible.
+https://docs.oracle.com/error-help/db/ora-12263/
+2025-02-15 21:11:16.301 SEVERE: Database error: ORA-12263: Failed to access tnsnames.ora in the directory configured as TNS admin: /path/to/wallet. The file does not exist, or is not accessible.
+https://docs.oracle.com/error-help/db/ora-12263/
+2025-02-15 21:11:17.314 SEVERE: Database error: ORA-12263: Failed to access tnsnames.ora in the directory configured as TNS admin: /path/to/wallet. The file does not exist, or is not accessible.
+https://docs.oracle.com/error-help/db/ora-12263/
+2025-02-15 21:11:18.316 SEVERE: Database error: ORA-12263: Failed to access tnsnames.ora in the directory configured as TNS admin: /path/to/wallet. The file does not exist, or is not accessible.
+https://docs.oracle.com/error-help/db/ora-12263/
+2025-02-15 21:11:18.325 SEVERE: Database error: ORA-12263: Failed to access tnsnames.ora in the directory configured as TNS admin: /path/to/wallet. The file does not exist, or is not accessible.
+https://docs.oracle.com/error-help/db/ora-12263/
+2025-02-15 21:11:19.338 SEVERE: Database error: ORA-12263: Failed to access tnsnames.ora in the directory configured as TNS admin: /path/to/wallet. The file does not exist, or is not accessible.
+https://docs.oracle.com/error-help/db/ora-12263/
+2025-02-15 21:11:20.324 SEVERE: Database error: ORA-12263: Failed to access tnsnames.ora in the directory configured as TNS admin: /path/to/wallet. The file does not exist, or is not accessible.
+https://docs.oracle.com/error-help/db/ora-12263/
+2025-02-15 21:11:20.352 SEVERE: Database error: ORA-12263: Failed to access tnsnames.ora in the directory configured as TNS admin: /path/to/wallet. The file does not exist, or is not accessible.
+https://docs.oracle.com/error-help/db/ora-12263/
+2025-02-15 21:11:21.365 SEVERE: Database error: ORA-12263: Failed to access tnsnames.ora in the directory configured as TNS admin: /path/to/wallet. The file does not exist, or is not accessible.
+https://docs.oracle.com/error-help/db/ora-12263/
+2025-02-15 21:11:22.335 SEVERE: Database error: ORA-12263: Failed to access tnsnames.ora in the directory configured as TNS admin: /path/to/wallet. The file does not exist, or is not accessible.
+https://docs.oracle.com/error-help/db/ora-12263/
+2025-02-15 21:11:22.373 SEVERE: Database error: ORA-12263: Failed to access tnsnames.ora in the directory configured as TNS admin: /path/to/wallet. The file does not exist, or is not accessible.
+https://docs.oracle.com/error-help/db/ora-12263/
+2025-02-15 21:11:23.389 SEVERE: Database error: ORA-12263: Failed to access tnsnames.ora in the directory configured as TNS admin: /path/to/wallet. The file does not exist, or is not accessible.
+https://docs.oracle.com/error-help/db/ora-12263/
+2025-02-15 21:11:24.347 SEVERE: Database error: ORA-12263: Failed to access tnsnames.ora in the directory configured as TNS admin: /path/to/wallet. The file does not exist, or is not accessible.
+https://docs.oracle.com/error-help/db/ora-12263/
+2025-02-15 21:11:24.398 SEVERE: Database error: ORA-12263: Failed to access tnsnames.ora in the directory configured as TNS admin: /path/to/wallet. The file does not exist, or is not accessible.
+https://docs.oracle.com/error-help/db/ora-12263/
+2025-02-15 21:11:25.406 SEVERE: Database error: ORA-12263: Failed to access tnsnames.ora in the directory configured as TNS admin: /path/to/wallet. The file does not exist, or is not accessible.
+https://docs.oracle.com/error-help/db/ora-12263/
+2025-02-15 21:11:25.408 INFO: Completed test cycle for database: DB1
+2025-02-15 21:11:26.354 SEVERE: Database error: ORA-12263: Failed to access tnsnames.ora in the directory configured as TNS admin: /path/to/wallet. The file does not exist, or is not accessible.
+https://docs.oracle.com/error-help/db/ora-12263/
+2025-02-15 21:12:11.973 INFO: Starting test cycle for database: DB1
+2025-02-15 21:12:11.987 INFO: Starting test cycle for database: DB2
+2025-02-15 21:12:12.669 SEVERE: Database error: ORA-12263: Failed to access tnsnames.ora in the directory configured as TNS admin: /path/to/wallet. The file does not exist, or is not accessible.
+https://docs.oracle.com/error-help/db/ora-12263/
+2025-02-15 21:12:13.488 DEBUG: Database DB1 completed iteration 1 of 10
+2025-02-15 21:12:14.676 DEBUG: Database DB1 completed iteration 2 of 10
+2025-02-15 21:12:14.681 SEVERE: Database error: ORA-12263: Failed to access tnsnames.ora in the directory configured as TNS admin: /path/to/wallet. The file does not exist, or is not accessible.
+https://docs.oracle.com/error-help/db/ora-12263/
+2025-02-15 21:12:15.836 DEBUG: Database DB1 completed iteration 3 of 10
+2025-02-15 21:12:16.696 SEVERE: Database error: ORA-12263: Failed to access tnsnames.ora in the directory configured as TNS admin: /path/to/wallet. The file does not exist, or is not accessible.
+https://docs.oracle.com/error-help/db/ora-12263/
+2025-02-15 21:12:16.986 DEBUG: Database DB1 completed iteration 4 of 10
+2025-02-15 21:12:18.132 DEBUG: Database DB1 completed iteration 5 of 10
+2025-02-15 21:12:18.706 SEVERE: Database error: ORA-12263: Failed to access tnsnames.ora in the directory configured as TNS admin: /path/to/wallet. The file does not exist, or is not accessible.
+https://docs.oracle.com/error-help/db/ora-12263/
+2025-02-15 21:12:19.307 DEBUG: Database DB1 completed iteration 6 of 10
+2025-02-15 21:12:20.460 DEBUG: Database DB1 completed iteration 7 of 10
+2025-02-15 21:12:34.140 INFO: Starting test cycle for database: DB1
+2025-02-15 21:12:35.494 DEBUG: Database DB1 completed iteration 1 of 10
+2025-02-15 21:12:36.663 DEBUG: Database DB1 completed iteration 2 of 10
+2025-02-15 21:12:37.825 DEBUG: Database DB1 completed iteration 3 of 10
+2025-02-15 21:12:38.979 DEBUG: Database DB1 completed iteration 4 of 10
+2025-02-15 21:12:40.133 DEBUG: Database DB1 completed iteration 5 of 10
+2025-02-15 21:12:41.281 DEBUG: Database DB1 completed iteration 6 of 10
+2025-02-15 21:12:42.438 DEBUG: Database DB1 completed iteration 7 of 10
+2025-02-15 21:12:43.591 DEBUG: Database DB1 completed iteration 8 of 10
+2025-02-15 21:12:44.783 DEBUG: Database DB1 completed iteration 9 of 10
+2025-02-15 21:12:45.947 DEBUG: Database DB1 completed iteration 10 of 10
+2025-02-15 21:12:45.954 INFO: Completed test cycle for database: DB1
+2025-02-15 21:13:12.157 INFO: Starting test cycle for database: DB1
+2025-02-15 21:13:13.597 DEBUG: Database DB1 completed iteration 1 of 10
+2025-02-15 21:13:14.899 DEBUG: Database DB1 completed iteration 2 of 10
+2025-02-15 21:13:16.066 DEBUG: Database DB1 completed iteration 3 of 10
+2025-02-15 21:13:17.231 DEBUG: Database DB1 completed iteration 4 of 10
+2025-02-15 21:13:18.425 DEBUG: Database DB1 completed iteration 5 of 10
+2025-02-15 21:13:19.582 DEBUG: Database DB1 completed iteration 6 of 10
+2025-02-15 21:13:20.747 DEBUG: Database DB1 completed iteration 7 of 10
+2025-02-15 21:13:21.887 DEBUG: Database DB1 completed iteration 8 of 10
+2025-02-15 21:13:23.068 DEBUG: Database DB1 completed iteration 9 of 10
+2025-02-15 21:13:24.216 DEBUG: Database DB1 completed iteration 10 of 10
+2025-02-15 21:13:24.222 INFO: Completed test cycle for database: DB1
+2025-02-15 21:13:27.198 INFO: Starting test cycle for database: DB1
+2025-02-15 21:13:41.311 INFO: Starting test cycle for database: DB1
+2025-02-15 21:13:42.403 DEBUG: Database DB1 completed iteration 1 of 10
+2025-02-15 21:13:43.594 DEBUG: Database DB1 completed iteration 2 of 10
+2025-02-15 21:16:27.533 INFO: Starting test cycle for database: DB1
+2025-02-15 21:16:27.545 INFO: Starting test cycle for database: DB3
+2025-02-15 21:16:27.545 INFO: Starting test cycle for database: DB5
+2025-02-15 21:16:27.546 INFO: Starting test cycle for database: DB4
+2025-02-15 21:16:27.546 INFO: Starting test cycle for database: DB6
+2025-02-15 21:16:28.684 DEBUG: Database DB1 completed iteration 1 of 10
+2025-02-15 21:16:28.685 DEBUG: Database DB6 completed iteration 1 of 10
+2025-02-15 21:16:28.688 DEBUG: Database DB3 completed iteration 1 of 10
+2025-02-15 21:16:28.689 DEBUG: Database DB4 completed iteration 1 of 10
+2025-02-15 21:16:28.689 DEBUG: Database DB5 completed iteration 1 of 10
+2025-02-15 21:16:28.989 DEBUG: Database DB5 completed iteration 2 of 10
+2025-02-15 21:16:29.043 DEBUG: Database DB6 completed iteration 2 of 10
+2025-02-15 21:16:29.283 DEBUG: Database DB5 completed iteration 3 of 10
+2025-02-15 21:16:29.425 DEBUG: Database DB6 completed iteration 3 of 10
+2025-02-15 21:16:29.546 DEBUG: Database DB5 completed iteration 4 of 10
+2025-02-15 21:16:29.796 DEBUG: Database DB6 completed iteration 4 of 10
+2025-02-15 21:16:29.828 DEBUG: Database DB5 completed iteration 5 of 10
+2025-02-15 21:16:29.941 DEBUG: Database DB1 completed iteration 2 of 10
+2025-02-15 21:16:29.942 DEBUG: Database DB4 completed iteration 2 of 10
+2025-02-15 21:16:30.097 DEBUG: Database DB5 completed iteration 6 of 10
+2025-02-15 21:16:30.179 DEBUG: Database DB6 completed iteration 5 of 10
+2025-02-15 21:16:30.378 DEBUG: Database DB5 completed iteration 7 of 10
+2025-02-15 21:16:30.546 DEBUG: Database DB6 completed iteration 6 of 10
+2025-02-15 21:16:30.643 DEBUG: Database DB5 completed iteration 8 of 10
+2025-02-15 21:16:30.890 DEBUG: Database DB3 completed iteration 2 of 10
+2025-02-15 21:16:30.934 DEBUG: Database DB5 completed iteration 9 of 10
+2025-02-15 21:16:30.943 DEBUG: Database DB6 completed iteration 7 of 10
+2025-02-15 21:16:31.102 DEBUG: Database DB4 completed iteration 3 of 10
+2025-02-15 21:16:31.116 DEBUG: Database DB1 completed iteration 3 of 10
+2025-02-15 21:16:31.195 DEBUG: Database DB5 completed iteration 10 of 10
+2025-02-15 21:16:31.303 DEBUG: Database DB6 completed iteration 8 of 10
+2025-02-15 21:16:31.464 DEBUG: Database DB5 completed iteration 11 of 10
+2025-02-15 21:16:31.661 DEBUG: Database DB6 completed iteration 9 of 10
+2025-02-15 21:16:31.750 DEBUG: Database DB5 completed iteration 12 of 10
+2025-02-15 21:16:32.002 DEBUG: Database DB5 completed iteration 13 of 10
+2025-02-15 21:16:32.026 DEBUG: Database DB6 completed iteration 10 of 10
+2025-02-15 21:16:32.288 DEBUG: Database DB4 completed iteration 4 of 10
+2025-02-15 21:16:32.294 DEBUG: Database DB5 completed iteration 14 of 10
+2025-02-15 21:16:32.312 DEBUG: Database DB1 completed iteration 4 of 10
+2025-02-15 21:16:32.394 DEBUG: Database DB6 completed iteration 11 of 10
+2025-02-15 21:16:32.566 DEBUG: Database DB5 completed iteration 15 of 10
+2025-02-15 21:16:32.768 DEBUG: Database DB6 completed iteration 12 of 10
+2025-02-15 21:16:32.833 DEBUG: Database DB5 completed iteration 16 of 10
+2025-02-15 21:16:33.062 DEBUG: Database DB3 completed iteration 3 of 10
+2025-02-15 21:16:33.113 DEBUG: Database DB5 completed iteration 17 of 10
+2025-02-15 21:16:33.136 DEBUG: Database DB6 completed iteration 13 of 10
+2025-02-15 21:16:33.378 DEBUG: Database DB5 completed iteration 18 of 10
+2025-02-15 21:16:33.483 DEBUG: Database DB4 completed iteration 5 of 10
+2025-02-15 21:16:33.485 DEBUG: Database DB1 completed iteration 5 of 10
+2025-02-15 21:16:33.517 DEBUG: Database DB6 completed iteration 14 of 10
+2025-02-15 21:16:33.635 DEBUG: Database DB5 completed iteration 19 of 10
+2025-02-15 21:16:33.933 DEBUG: Database DB6 completed iteration 15 of 10
+2025-02-15 21:16:33.947 DEBUG: Database DB5 completed iteration 20 of 10
+2025-02-15 21:16:34.221 DEBUG: Database DB5 completed iteration 21 of 10
+2025-02-15 21:16:34.294 DEBUG: Database DB6 completed iteration 16 of 10
+2025-02-15 21:16:34.486 DEBUG: Database DB5 completed iteration 22 of 10
+2025-02-15 21:16:34.665 DEBUG: Database DB1 completed iteration 6 of 10
+2025-02-15 21:16:34.673 DEBUG: Database DB6 completed iteration 17 of 10
+2025-02-15 21:16:34.675 DEBUG: Database DB4 completed iteration 6 of 10
+2025-02-15 21:16:34.750 DEBUG: Database DB5 completed iteration 23 of 10
+2025-02-15 21:16:35.022 DEBUG: Database DB5 completed iteration 24 of 10
+2025-02-15 21:16:35.049 DEBUG: Database DB6 completed iteration 18 of 10
+2025-02-15 21:16:35.233 DEBUG: Database DB3 completed iteration 4 of 10
+2025-02-15 21:16:35.286 DEBUG: Database DB5 completed iteration 25 of 10
+2025-02-15 21:16:35.413 DEBUG: Database DB6 completed iteration 19 of 10
+2025-02-15 21:16:35.558 DEBUG: Database DB5 completed iteration 26 of 10
+2025-02-15 21:16:35.785 DEBUG: Database DB6 completed iteration 20 of 10
+2025-02-15 21:16:35.874 DEBUG: Database DB5 completed iteration 27 of 10
+2025-02-15 21:16:35.887 DEBUG: Database DB4 completed iteration 7 of 10
+2025-02-15 21:16:35.890 DEBUG: Database DB1 completed iteration 7 of 10
+2025-02-15 21:16:36.166 DEBUG: Database DB5 completed iteration 28 of 10
+2025-02-15 21:16:36.196 DEBUG: Database DB6 completed iteration 21 of 10
+2025-02-15 21:16:36.434 DEBUG: Database DB5 completed iteration 29 of 10
+2025-02-15 21:16:36.582 DEBUG: Database DB6 completed iteration 22 of 10
+2025-02-15 21:16:36.694 DEBUG: Database DB5 completed iteration 30 of 10
+2025-02-15 21:16:36.960 DEBUG: Database DB6 completed iteration 23 of 10
+2025-02-15 21:16:36.975 DEBUG: Database DB5 completed iteration 31 of 10
+2025-02-15 21:16:37.062 DEBUG: Database DB1 completed iteration 8 of 10
+2025-02-15 21:16:37.070 DEBUG: Database DB4 completed iteration 8 of 10
+2025-02-15 21:16:37.229 DEBUG: Database DB5 completed iteration 32 of 10
+2025-02-15 21:16:37.313 DEBUG: Database DB6 completed iteration 24 of 10
+2025-02-15 21:16:37.388 DEBUG: Database DB3 completed iteration 5 of 10
+2025-02-15 21:16:37.483 DEBUG: Database DB5 completed iteration 33 of 10
+2025-02-15 21:16:37.686 DEBUG: Database DB6 completed iteration 25 of 10
+2025-02-15 21:16:37.774 DEBUG: Database DB5 completed iteration 34 of 10
+2025-02-15 21:16:38.071 DEBUG: Database DB5 completed iteration 35 of 10
+2025-02-15 21:16:38.074 DEBUG: Database DB6 completed iteration 26 of 10
+2025-02-15 21:16:38.255 DEBUG: Database DB1 completed iteration 9 of 10
+2025-02-15 21:16:38.267 DEBUG: Database DB4 completed iteration 9 of 10
+2025-02-15 21:16:38.349 DEBUG: Database DB5 completed iteration 36 of 10
+2025-02-15 21:16:38.445 DEBUG: Database DB6 completed iteration 27 of 10
+2025-02-15 21:16:38.613 DEBUG: Database DB5 completed iteration 37 of 10
+2025-02-15 21:16:38.826 DEBUG: Database DB6 completed iteration 28 of 10
+2025-02-15 21:16:38.868 DEBUG: Database DB5 completed iteration 38 of 10
+2025-02-15 21:16:39.141 DEBUG: Database DB5 completed iteration 39 of 10
+2025-02-15 21:16:39.198 DEBUG: Database DB6 completed iteration 29 of 10
+2025-02-15 21:16:39.430 DEBUG: Database DB5 completed iteration 40 of 10
+2025-02-15 21:16:39.433 DEBUG: Database DB1 completed iteration 10 of 10
+2025-02-15 21:16:39.446 DEBUG: Database DB4 completed iteration 10 of 10
+2025-02-15 21:16:39.567 DEBUG: Database DB3 completed iteration 6 of 10
+2025-02-15 21:16:39.567 DEBUG: Database DB6 completed iteration 30 of 10
+2025-02-15 21:16:39.699 DEBUG: Database DB5 completed iteration 41 of 10
+2025-02-15 21:16:39.949 DEBUG: Database DB6 completed iteration 31 of 10
+2025-02-15 21:16:39.969 DEBUG: Database DB5 completed iteration 42 of 10
+2025-02-15 21:16:40.292 DEBUG: Database DB5 completed iteration 43 of 10
+2025-02-15 21:16:40.368 DEBUG: Database DB6 completed iteration 32 of 10
+2025-02-15 21:16:40.563 DEBUG: Database DB5 completed iteration 44 of 10
+2025-02-15 21:16:40.602 DEBUG: Database DB1 completed iteration 11 of 10
+2025-02-15 21:16:40.608 DEBUG: Database DB4 completed iteration 11 of 10
+2025-02-15 21:16:40.737 DEBUG: Database DB6 completed iteration 33 of 10
+2025-02-15 21:16:40.825 DEBUG: Database DB5 completed iteration 45 of 10
+2025-02-15 21:16:41.085 DEBUG: Database DB5 completed iteration 46 of 10
+2025-02-15 21:16:41.109 DEBUG: Database DB6 completed iteration 34 of 10
+2025-02-15 21:16:41.343 DEBUG: Database DB5 completed iteration 47 of 10
+2025-02-15 21:16:41.456 DEBUG: Database DB6 completed iteration 35 of 10
+2025-02-15 21:16:41.605 DEBUG: Database DB5 completed iteration 48 of 10
+2025-02-15 21:16:41.736 DEBUG: Database DB3 completed iteration 7 of 10
+2025-02-15 21:16:41.785 DEBUG: Database DB4 completed iteration 12 of 10
+2025-02-15 21:16:41.791 DEBUG: Database DB1 completed iteration 12 of 10
+2025-02-15 21:16:41.836 DEBUG: Database DB6 completed iteration 36 of 10
+2025-02-15 21:16:41.872 DEBUG: Database DB5 completed iteration 49 of 10
+2025-02-15 21:16:42.151 DEBUG: Database DB5 completed iteration 50 of 10
+2025-02-15 21:16:42.205 DEBUG: Database DB6 completed iteration 37 of 10
+2025-02-15 21:16:42.419 DEBUG: Database DB5 completed iteration 51 of 10
+2025-02-15 21:16:42.583 DEBUG: Database DB6 completed iteration 38 of 10
+2025-02-15 21:16:42.677 DEBUG: Database DB5 completed iteration 52 of 10
+2025-02-15 21:16:42.940 DEBUG: Database DB5 completed iteration 53 of 10
+2025-02-15 21:16:42.953 DEBUG: Database DB6 completed iteration 39 of 10
+2025-02-15 21:16:42.966 DEBUG: Database DB4 completed iteration 13 of 10
+2025-02-15 21:16:42.999 DEBUG: Database DB1 completed iteration 13 of 10
+2025-02-15 21:16:43.202 DEBUG: Database DB5 completed iteration 54 of 10
+2025-02-15 21:16:43.316 DEBUG: Database DB6 completed iteration 40 of 10
+2025-02-15 21:16:43.451 DEBUG: Database DB5 completed iteration 55 of 10
+2025-02-15 21:16:43.674 DEBUG: Database DB6 completed iteration 41 of 10
+2025-02-15 21:16:43.714 DEBUG: Database DB5 completed iteration 56 of 10
+2025-02-15 21:16:43.890 DEBUG: Database DB3 completed iteration 8 of 10
+2025-02-15 21:16:43.980 DEBUG: Database DB5 completed iteration 57 of 10
+2025-02-15 21:16:44.024 DEBUG: Database DB6 completed iteration 42 of 10
+2025-02-15 21:16:44.128 DEBUG: Database DB4 completed iteration 14 of 10
+2025-02-15 21:16:44.171 DEBUG: Database DB1 completed iteration 14 of 10
+2025-02-15 21:16:44.244 DEBUG: Database DB5 completed iteration 58 of 10
+2025-02-15 21:16:44.385 DEBUG: Database DB6 completed iteration 43 of 10
+2025-02-15 21:16:44.520 DEBUG: Database DB5 completed iteration 59 of 10
+2025-02-15 21:16:44.738 DEBUG: Database DB6 completed iteration 44 of 10
+2025-02-15 21:16:44.783 DEBUG: Database DB5 completed iteration 60 of 10
+2025-02-15 21:16:45.046 DEBUG: Database DB5 completed iteration 61 of 10
+2025-02-15 21:16:45.105 DEBUG: Database DB6 completed iteration 45 of 10
+2025-02-15 21:16:45.301 DEBUG: Database DB4 completed iteration 15 of 10
+2025-02-15 21:16:45.317 DEBUG: Database DB5 completed iteration 62 of 10
+2025-02-15 21:16:45.343 DEBUG: Database DB1 completed iteration 15 of 10
+2025-02-15 21:16:45.459 DEBUG: Database DB6 completed iteration 46 of 10
+2025-02-15 21:16:45.601 DEBUG: Database DB5 completed iteration 63 of 10
+2025-02-15 21:16:45.832 DEBUG: Database DB6 completed iteration 47 of 10
+2025-02-15 21:16:45.861 DEBUG: Database DB5 completed iteration 64 of 10
+2025-02-15 21:16:46.059 DEBUG: Database DB3 completed iteration 9 of 10
+2025-02-15 21:16:46.119 DEBUG: Database DB5 completed iteration 65 of 10
+2025-02-15 21:16:46.206 DEBUG: Database DB6 completed iteration 48 of 10
+2025-02-15 21:16:46.380 DEBUG: Database DB5 completed iteration 66 of 10
+2025-02-15 21:16:46.473 DEBUG: Database DB4 completed iteration 16 of 10
+2025-02-15 21:16:46.505 DEBUG: Database DB1 completed iteration 16 of 10
+2025-02-15 21:16:46.578 DEBUG: Database DB6 completed iteration 49 of 10
+2025-02-15 21:16:46.670 DEBUG: Database DB5 completed iteration 67 of 10
+2025-02-15 21:16:46.939 DEBUG: Database DB5 completed iteration 68 of 10
+2025-02-15 21:16:47.016 DEBUG: Database DB6 completed iteration 50 of 10
+2025-02-15 21:16:47.196 DEBUG: Database DB5 completed iteration 69 of 10
+2025-02-15 21:16:47.367 DEBUG: Database DB6 completed iteration 51 of 10
+2025-02-15 21:16:47.461 DEBUG: Database DB5 completed iteration 70 of 10
+2025-02-15 21:16:47.644 DEBUG: Database DB4 completed iteration 17 of 10
+2025-02-15 21:16:47.697 DEBUG: Database DB1 completed iteration 17 of 10
+2025-02-15 21:16:47.744 DEBUG: Database DB5 completed iteration 71 of 10
+2025-02-15 21:16:47.751 DEBUG: Database DB6 completed iteration 52 of 10
+2025-02-15 21:16:48.025 DEBUG: Database DB5 completed iteration 72 of 10
+2025-02-15 21:16:48.112 DEBUG: Database DB6 completed iteration 53 of 10
+2025-02-15 21:16:48.223 DEBUG: Database DB3 completed iteration 10 of 10
+2025-02-15 21:16:48.282 DEBUG: Database DB5 completed iteration 73 of 10
+2025-02-15 21:16:48.460 DEBUG: Database DB6 completed iteration 54 of 10
+2025-02-15 21:16:48.554 DEBUG: Database DB5 completed iteration 74 of 10
+2025-02-15 21:16:48.867 DEBUG: Database DB4 completed iteration 18 of 10
+2025-02-15 21:16:48.901 DEBUG: Database DB5 completed iteration 75 of 10
+2025-02-15 21:16:48.912 DEBUG: Database DB6 completed iteration 55 of 10
+2025-02-15 21:16:48.918 DEBUG: Database DB1 completed iteration 18 of 10
+2025-02-15 21:16:49.195 DEBUG: Database DB5 completed iteration 76 of 10
+2025-02-15 21:16:49.281 DEBUG: Database DB6 completed iteration 56 of 10
+2025-02-15 21:16:49.450 DEBUG: Database DB5 completed iteration 77 of 10
+2025-02-15 21:16:49.640 DEBUG: Database DB6 completed iteration 57 of 10
+2025-02-15 21:16:49.714 DEBUG: Database DB5 completed iteration 78 of 10
+2025-02-15 21:16:49.988 DEBUG: Database DB5 completed iteration 79 of 10
+2025-02-15 21:16:50.016 DEBUG: Database DB6 completed iteration 58 of 10
+2025-02-15 21:16:50.046 DEBUG: Database DB4 completed iteration 19 of 10
+2025-02-15 21:16:50.094 DEBUG: Database DB1 completed iteration 19 of 10
+2025-02-15 21:16:50.274 DEBUG: Database DB5 completed iteration 80 of 10
+2025-02-15 21:16:50.380 DEBUG: Database DB6 completed iteration 59 of 10
+2025-02-15 21:16:50.447 DEBUG: Database DB3 completed iteration 11 of 10
+2025-02-15 21:16:50.543 DEBUG: Database DB5 completed iteration 81 of 10
+2025-02-15 21:16:50.741 DEBUG: Database DB6 completed iteration 60 of 10
+2025-02-15 21:16:50.819 DEBUG: Database DB5 completed iteration 82 of 10
+2025-02-15 21:16:51.090 DEBUG: Database DB5 completed iteration 83 of 10
+2025-02-15 21:16:51.105 DEBUG: Database DB6 completed iteration 61 of 10
+2025-02-15 21:16:51.231 DEBUG: Database DB4 completed iteration 20 of 10
+2025-02-15 21:16:51.266 DEBUG: Database DB1 completed iteration 20 of 10
+2025-02-15 21:16:51.383 DEBUG: Database DB5 completed iteration 84 of 10
+2025-02-15 21:16:51.504 DEBUG: Database DB6 completed iteration 62 of 10
+2025-02-15 21:16:51.651 DEBUG: Database DB5 completed iteration 85 of 10
+2025-02-15 21:16:51.877 DEBUG: Database DB6 completed iteration 63 of 10
+2025-02-15 21:16:51.935 DEBUG: Database DB5 completed iteration 86 of 10
+2025-02-15 21:16:52.197 DEBUG: Database DB5 completed iteration 87 of 10
+2025-02-15 21:16:52.239 DEBUG: Database DB6 completed iteration 64 of 10
+2025-02-15 21:16:52.396 DEBUG: Database DB4 completed iteration 21 of 10
+2025-02-15 21:16:52.433 DEBUG: Database DB1 completed iteration 21 of 10
+2025-02-15 21:16:52.477 DEBUG: Database DB5 completed iteration 88 of 10
+2025-02-15 21:16:52.624 DEBUG: Database DB6 completed iteration 65 of 10
+2025-02-15 21:16:52.630 DEBUG: Database DB3 completed iteration 12 of 10
+2025-02-15 21:16:52.726 DEBUG: Database DB5 completed iteration 89 of 10
+2025-02-15 21:16:52.999 DEBUG: Database DB6 completed iteration 66 of 10
+2025-02-15 21:16:53.012 DEBUG: Database DB5 completed iteration 90 of 10
+2025-02-15 21:16:53.302 DEBUG: Database DB5 completed iteration 91 of 10
+2025-02-15 21:16:53.368 DEBUG: Database DB6 completed iteration 67 of 10
+2025-02-15 21:16:53.563 DEBUG: Database DB4 completed iteration 22 of 10
+2025-02-15 21:16:53.611 DEBUG: Database DB5 completed iteration 92 of 10
+2025-02-15 21:16:53.613 DEBUG: Database DB1 completed iteration 22 of 10
+2025-02-15 21:16:53.727 DEBUG: Database DB6 completed iteration 68 of 10
+2025-02-15 21:16:53.859 DEBUG: Database DB5 completed iteration 93 of 10
+2025-02-15 21:16:54.101 DEBUG: Database DB6 completed iteration 69 of 10
+2025-02-15 21:16:54.130 DEBUG: Database DB5 completed iteration 94 of 10
+2025-02-15 21:16:54.393 DEBUG: Database DB5 completed iteration 95 of 10
+2025-02-15 21:16:54.468 DEBUG: Database DB6 completed iteration 70 of 10
+2025-02-15 21:16:54.676 DEBUG: Database DB5 completed iteration 96 of 10
+2025-02-15 21:16:54.761 DEBUG: Database DB4 completed iteration 23 of 10
+2025-02-15 21:16:54.821 DEBUG: Database DB1 completed iteration 23 of 10
+2025-02-15 21:16:54.856 DEBUG: Database DB3 completed iteration 13 of 10
+2025-02-15 21:16:54.885 DEBUG: Database DB6 completed iteration 71 of 10
+2025-02-15 21:16:54.952 DEBUG: Database DB5 completed iteration 97 of 10
+2025-02-15 21:16:55.232 DEBUG: Database DB5 completed iteration 98 of 10
+2025-02-15 21:16:55.267 DEBUG: Database DB6 completed iteration 72 of 10
+2025-02-15 21:16:55.503 DEBUG: Database DB5 completed iteration 99 of 10
+2025-02-15 21:16:55.626 DEBUG: Database DB6 completed iteration 73 of 10
+2025-02-15 21:16:55.762 DEBUG: Database DB5 completed iteration 100 of 10
+2025-02-15 21:16:55.770 INFO: Completed test cycle for database: DB5
+2025-02-15 21:16:55.972 DEBUG: Database DB4 completed iteration 24 of 10
+2025-02-15 21:16:56.010 DEBUG: Database DB6 completed iteration 74 of 10
+2025-02-15 21:16:56.013 DEBUG: Database DB1 completed iteration 24 of 10
+2025-02-15 21:16:56.379 DEBUG: Database DB6 completed iteration 75 of 10
+2025-02-15 21:16:56.743 DEBUG: Database DB6 completed iteration 76 of 10
+2025-02-15 21:16:57.036 DEBUG: Database DB3 completed iteration 14 of 10
+2025-02-15 21:16:57.160 DEBUG: Database DB4 completed iteration 25 of 10
+2025-02-15 21:16:57.163 DEBUG: Database DB6 completed iteration 77 of 10
+2025-02-15 21:16:57.211 DEBUG: Database DB1 completed iteration 25 of 10
+2025-02-15 21:16:57.531 DEBUG: Database DB6 completed iteration 78 of 10
+2025-02-15 21:16:57.937 DEBUG: Database DB6 completed iteration 79 of 10
+2025-02-15 21:16:58.324 DEBUG: Database DB6 completed iteration 80 of 10
+2025-02-15 21:16:58.333 DEBUG: Database DB4 completed iteration 26 of 10
+2025-02-15 21:16:58.391 DEBUG: Database DB1 completed iteration 26 of 10
+2025-02-15 21:16:58.693 DEBUG: Database DB6 completed iteration 81 of 10
+2025-02-15 21:16:59.068 DEBUG: Database DB6 completed iteration 82 of 10
+2025-02-15 21:16:59.194 DEBUG: Database DB3 completed iteration 15 of 10
+2025-02-15 21:16:59.480 DEBUG: Database DB6 completed iteration 83 of 10
+2025-02-15 21:16:59.521 DEBUG: Database DB4 completed iteration 27 of 10
+2025-02-15 21:16:59.578 DEBUG: Database DB1 completed iteration 27 of 10
+2025-02-15 21:16:59.842 DEBUG: Database DB6 completed iteration 84 of 10
+2025-02-15 21:17:00.188 DEBUG: Database DB6 completed iteration 85 of 10
+2025-02-15 21:17:00.540 DEBUG: Database DB6 completed iteration 86 of 10
+2025-02-15 21:17:00.681 DEBUG: Database DB4 completed iteration 28 of 10
+2025-02-15 21:17:00.739 DEBUG: Database DB1 completed iteration 28 of 10
+2025-02-15 21:17:00.896 DEBUG: Database DB6 completed iteration 87 of 10
+2025-02-15 21:17:01.245 DEBUG: Database DB6 completed iteration 88 of 10
+2025-02-15 21:17:01.352 DEBUG: Database DB3 completed iteration 16 of 10
+2025-02-15 21:17:01.638 DEBUG: Database DB6 completed iteration 89 of 10
+2025-02-15 21:17:01.842 DEBUG: Database DB4 completed iteration 29 of 10
+2025-02-15 21:17:01.894 DEBUG: Database DB1 completed iteration 29 of 10
+2025-02-15 21:17:01.988 DEBUG: Database DB6 completed iteration 90 of 10
+2025-02-15 21:17:02.359 DEBUG: Database DB6 completed iteration 91 of 10
+2025-02-15 21:17:02.726 DEBUG: Database DB6 completed iteration 92 of 10
+2025-02-15 21:17:03.020 DEBUG: Database DB4 completed iteration 30 of 10
+2025-02-15 21:17:03.073 DEBUG: Database DB1 completed iteration 30 of 10
+2025-02-15 21:17:03.103 DEBUG: Database DB6 completed iteration 93 of 10
+2025-02-15 21:17:03.499 DEBUG: Database DB6 completed iteration 94 of 10
+2025-02-15 21:17:03.513 DEBUG: Database DB3 completed iteration 17 of 10
+2025-02-15 21:17:03.854 DEBUG: Database DB6 completed iteration 95 of 10
+2025-02-15 21:17:04.187 DEBUG: Database DB4 completed iteration 31 of 10
+2025-02-15 21:17:04.241 DEBUG: Database DB6 completed iteration 96 of 10
+2025-02-15 21:17:04.244 DEBUG: Database DB1 completed iteration 31 of 10
+2025-02-15 21:17:04.588 DEBUG: Database DB6 completed iteration 97 of 10
+2025-02-15 21:17:04.945 DEBUG: Database DB6 completed iteration 98 of 10
+2025-02-15 21:17:05.334 DEBUG: Database DB6 completed iteration 99 of 10
+2025-02-15 21:17:05.376 DEBUG: Database DB4 completed iteration 32 of 10
+2025-02-15 21:17:05.422 DEBUG: Database DB1 completed iteration 32 of 10
+2025-02-15 21:17:05.692 DEBUG: Database DB3 completed iteration 18 of 10
+2025-02-15 21:17:05.698 DEBUG: Database DB6 completed iteration 100 of 10
+2025-02-15 21:17:05.708 INFO: Completed test cycle for database: DB6
+2025-02-15 21:17:06.555 DEBUG: Database DB4 completed iteration 33 of 10
+2025-02-15 21:17:06.587 DEBUG: Database DB1 completed iteration 33 of 10
+2025-02-15 21:17:07.729 DEBUG: Database DB4 completed iteration 34 of 10
+2025-02-15 21:17:07.766 DEBUG: Database DB1 completed iteration 34 of 10
+2025-02-15 21:17:07.897 DEBUG: Database DB3 completed iteration 19 of 10
+2025-02-15 21:17:08.909 DEBUG: Database DB4 completed iteration 35 of 10
+2025-02-15 21:17:08.949 DEBUG: Database DB1 completed iteration 35 of 10
+2025-02-15 21:17:10.120 DEBUG: Database DB3 completed iteration 20 of 10
+2025-02-15 21:17:10.122 DEBUG: Database DB4 completed iteration 36 of 10
+2025-02-15 21:17:10.156 DEBUG: Database DB1 completed iteration 36 of 10
+2025-02-15 21:17:11.299 DEBUG: Database DB4 completed iteration 37 of 10
+2025-02-15 21:17:11.333 DEBUG: Database DB1 completed iteration 37 of 10
+2025-02-15 21:17:12.282 DEBUG: Database DB3 completed iteration 21 of 10
+2025-02-15 21:17:12.460 DEBUG: Database DB4 completed iteration 38 of 10
+2025-02-15 21:17:12.508 DEBUG: Database DB1 completed iteration 38 of 10
+2025-02-15 21:17:13.644 DEBUG: Database DB4 completed iteration 39 of 10
+2025-02-15 21:17:13.690 DEBUG: Database DB1 completed iteration 39 of 10
+2025-02-15 21:17:14.472 DEBUG: Database DB3 completed iteration 22 of 10
+2025-02-15 21:17:14.835 DEBUG: Database DB4 completed iteration 40 of 10
+2025-02-15 21:17:14.869 DEBUG: Database DB1 completed iteration 40 of 10
+2025-02-15 21:17:16.009 DEBUG: Database DB4 completed iteration 41 of 10
+2025-02-15 21:17:16.044 DEBUG: Database DB1 completed iteration 41 of 10
+2025-02-15 21:17:16.654 DEBUG: Database DB3 completed iteration 23 of 10
+2025-02-15 21:17:17.204 DEBUG: Database DB4 completed iteration 42 of 10
+2025-02-15 21:17:17.216 DEBUG: Database DB1 completed iteration 42 of 10
+2025-02-15 21:17:18.375 DEBUG: Database DB4 completed iteration 43 of 10
+2025-02-15 21:17:18.381 DEBUG: Database DB1 completed iteration 43 of 10
+2025-02-15 21:17:18.827 DEBUG: Database DB3 completed iteration 24 of 10
+2025-02-15 21:17:19.556 DEBUG: Database DB4 completed iteration 44 of 10
+2025-02-15 21:17:19.559 DEBUG: Database DB1 completed iteration 44 of 10
+2025-02-15 21:17:20.757 DEBUG: Database DB1 completed iteration 45 of 10
+2025-02-15 21:17:20.770 DEBUG: Database DB4 completed iteration 45 of 10
+2025-02-15 21:17:20.999 DEBUG: Database DB3 completed iteration 25 of 10
+2025-02-15 21:17:21.932 DEBUG: Database DB1 completed iteration 46 of 10
+2025-02-15 21:17:21.942 DEBUG: Database DB4 completed iteration 46 of 10
+2025-02-15 21:17:23.129 DEBUG: Database DB1 completed iteration 47 of 10
+2025-02-15 21:17:23.129 DEBUG: Database DB4 completed iteration 47 of 10
+2025-02-15 21:17:23.187 DEBUG: Database DB3 completed iteration 26 of 10
+2025-02-15 21:17:24.305 DEBUG: Database DB4 completed iteration 48 of 10
+2025-02-15 21:17:24.308 DEBUG: Database DB1 completed iteration 48 of 10
+2025-02-15 21:17:25.364 DEBUG: Database DB3 completed iteration 27 of 10
+2025-02-15 21:17:25.489 DEBUG: Database DB1 completed iteration 49 of 10
+2025-02-15 21:17:25.497 DEBUG: Database DB4 completed iteration 49 of 10
+2025-02-15 21:17:26.671 DEBUG: Database DB1 completed iteration 50 of 10
+2025-02-15 21:17:26.679 DEBUG: Database DB4 completed iteration 50 of 10
+2025-02-15 21:17:27.535 DEBUG: Database DB3 completed iteration 28 of 10
+2025-02-15 21:17:27.854 DEBUG: Database DB1 completed iteration 51 of 10
+2025-02-15 21:17:27.930 DEBUG: Database DB4 completed iteration 51 of 10
+2025-02-15 21:17:29.040 DEBUG: Database DB1 completed iteration 52 of 10
+2025-02-15 21:17:29.119 DEBUG: Database DB4 completed iteration 52 of 10
+2025-02-15 21:17:29.726 DEBUG: Database DB3 completed iteration 29 of 10
+2025-02-15 21:17:30.213 DEBUG: Database DB1 completed iteration 53 of 10
+2025-02-15 21:17:30.290 DEBUG: Database DB4 completed iteration 53 of 10
+2025-02-15 21:17:31.386 DEBUG: Database DB1 completed iteration 54 of 10
+2025-02-15 21:17:31.451 DEBUG: Database DB4 completed iteration 54 of 10
+2025-02-15 21:17:31.902 DEBUG: Database DB3 completed iteration 30 of 10
+2025-02-15 21:17:32.566 DEBUG: Database DB1 completed iteration 55 of 10
+2025-02-15 21:17:32.644 DEBUG: Database DB4 completed iteration 55 of 10
+2025-02-15 21:17:33.728 DEBUG: Database DB1 completed iteration 56 of 10
+2025-02-15 21:17:33.807 DEBUG: Database DB4 completed iteration 56 of 10
+2025-02-15 21:17:34.063 DEBUG: Database DB3 completed iteration 31 of 10
+2025-02-15 21:17:34.917 DEBUG: Database DB1 completed iteration 57 of 10
+2025-02-15 21:17:35.005 DEBUG: Database DB4 completed iteration 57 of 10
+2025-02-15 21:17:36.089 DEBUG: Database DB1 completed iteration 58 of 10
+2025-02-15 21:17:36.198 DEBUG: Database DB4 completed iteration 58 of 10
+2025-02-15 21:17:36.237 DEBUG: Database DB3 completed iteration 32 of 10
+2025-02-15 21:17:37.270 DEBUG: Database DB1 completed iteration 59 of 10
+2025-02-15 21:17:37.349 DEBUG: Database DB4 completed iteration 59 of 10
+2025-02-15 21:17:38.408 DEBUG: Database DB3 completed iteration 33 of 10
+2025-02-15 21:17:38.437 DEBUG: Database DB1 completed iteration 60 of 10
+2025-02-15 21:17:38.529 DEBUG: Database DB4 completed iteration 60 of 10
+2025-02-15 21:17:39.613 DEBUG: Database DB1 completed iteration 61 of 10
+2025-02-15 21:17:39.728 DEBUG: Database DB4 completed iteration 61 of 10
+2025-02-15 21:17:40.598 DEBUG: Database DB3 completed iteration 34 of 10
+2025-02-15 21:17:40.781 DEBUG: Database DB1 completed iteration 62 of 10
+2025-02-15 21:17:40.891 DEBUG: Database DB4 completed iteration 62 of 10
+2025-02-15 21:17:41.985 DEBUG: Database DB1 completed iteration 63 of 10
+2025-02-15 21:17:42.063 DEBUG: Database DB4 completed iteration 63 of 10
+2025-02-15 21:17:42.766 DEBUG: Database DB3 completed iteration 35 of 10
+2025-02-15 21:17:43.151 DEBUG: Database DB1 completed iteration 64 of 10
+2025-02-15 21:17:43.225 DEBUG: Database DB4 completed iteration 64 of 10
+2025-02-15 21:17:44.325 DEBUG: Database DB1 completed iteration 65 of 10
+2025-02-15 21:17:44.384 DEBUG: Database DB4 completed iteration 65 of 10
+2025-02-15 21:17:44.929 DEBUG: Database DB3 completed iteration 36 of 10
+2025-02-15 21:17:45.488 DEBUG: Database DB1 completed iteration 66 of 10
+2025-02-15 21:17:45.554 DEBUG: Database DB4 completed iteration 66 of 10
+2025-02-15 21:17:46.656 DEBUG: Database DB1 completed iteration 67 of 10
+2025-02-15 21:17:46.720 DEBUG: Database DB4 completed iteration 67 of 10
+2025-02-15 21:17:47.123 DEBUG: Database DB3 completed iteration 37 of 10
+2025-02-15 21:17:47.835 DEBUG: Database DB1 completed iteration 68 of 10
+2025-02-15 21:17:47.887 DEBUG: Database DB4 completed iteration 68 of 10
+2025-02-15 21:17:49.027 DEBUG: Database DB1 completed iteration 69 of 10
+2025-02-15 21:17:49.059 DEBUG: Database DB4 completed iteration 69 of 10
+2025-02-15 21:17:49.290 DEBUG: Database DB3 completed iteration 38 of 10
+2025-02-15 21:17:50.201 DEBUG: Database DB1 completed iteration 70 of 10
+2025-02-15 21:17:50.243 DEBUG: Database DB4 completed iteration 70 of 10
+2025-02-15 21:17:51.379 DEBUG: Database DB1 completed iteration 71 of 10
+2025-02-15 21:17:51.425 DEBUG: Database DB4 completed iteration 71 of 10
+2025-02-15 21:17:51.470 DEBUG: Database DB3 completed iteration 39 of 10
+2025-02-15 21:17:52.614 DEBUG: Database DB1 completed iteration 72 of 10
+2025-02-15 21:17:52.616 DEBUG: Database DB4 completed iteration 72 of 10
+2025-02-15 21:17:53.641 DEBUG: Database DB3 completed iteration 40 of 10
+2025-02-15 21:17:53.793 DEBUG: Database DB1 completed iteration 73 of 10
+2025-02-15 21:17:53.796 DEBUG: Database DB4 completed iteration 73 of 10
+2025-02-15 21:17:54.998 DEBUG: Database DB4 completed iteration 74 of 10
+2025-02-15 21:17:55.002 DEBUG: Database DB1 completed iteration 74 of 10
+2025-02-15 21:17:55.809 DEBUG: Database DB3 completed iteration 41 of 10
+2025-02-15 21:17:56.162 DEBUG: Database DB4 completed iteration 75 of 10
+2025-02-15 21:17:56.239 DEBUG: Database DB1 completed iteration 75 of 10
+2025-02-15 21:17:57.329 DEBUG: Database DB4 completed iteration 76 of 10
+2025-02-15 21:17:57.413 DEBUG: Database DB1 completed iteration 76 of 10
+2025-02-15 21:17:57.973 DEBUG: Database DB3 completed iteration 42 of 10
+2025-02-15 21:17:58.509 DEBUG: Database DB4 completed iteration 77 of 10
+2025-02-15 21:17:58.591 DEBUG: Database DB1 completed iteration 77 of 10
+2025-02-15 21:17:59.664 DEBUG: Database DB4 completed iteration 78 of 10
+2025-02-15 21:17:59.761 DEBUG: Database DB1 completed iteration 78 of 10
+2025-02-15 21:18:00.127 DEBUG: Database DB3 completed iteration 43 of 10
+2025-02-15 21:18:00.843 DEBUG: Database DB4 completed iteration 79 of 10
+2025-02-15 21:18:00.951 DEBUG: Database DB1 completed iteration 79 of 10
+2025-02-15 21:18:02.012 DEBUG: Database DB4 completed iteration 80 of 10
+2025-02-15 21:18:02.137 DEBUG: Database DB1 completed iteration 80 of 10
+2025-02-15 21:18:02.288 DEBUG: Database DB3 completed iteration 44 of 10
+2025-02-15 21:18:03.255 DEBUG: Database DB4 completed iteration 81 of 10
+2025-02-15 21:18:03.304 DEBUG: Database DB1 completed iteration 81 of 10
+2025-02-15 21:18:04.443 DEBUG: Database DB4 completed iteration 82 of 10
+2025-02-15 21:18:04.468 DEBUG: Database DB3 completed iteration 45 of 10
+2025-02-15 21:18:04.479 DEBUG: Database DB1 completed iteration 82 of 10
+2025-02-15 21:18:05.618 DEBUG: Database DB4 completed iteration 83 of 10
+2025-02-15 21:18:05.653 DEBUG: Database DB1 completed iteration 83 of 10
+2025-02-15 21:18:06.638 DEBUG: Database DB3 completed iteration 46 of 10
+2025-02-15 21:18:06.792 DEBUG: Database DB4 completed iteration 84 of 10
+2025-02-15 21:18:06.825 DEBUG: Database DB1 completed iteration 84 of 10
+2025-02-15 21:18:07.969 DEBUG: Database DB4 completed iteration 85 of 10
+2025-02-15 21:18:08.001 DEBUG: Database DB1 completed iteration 85 of 10
+2025-02-15 21:18:08.841 DEBUG: Database DB3 completed iteration 47 of 10
+2025-02-15 21:18:09.177 DEBUG: Database DB4 completed iteration 86 of 10
+2025-02-15 21:18:09.213 DEBUG: Database DB1 completed iteration 86 of 10
+2025-02-15 21:18:10.361 DEBUG: Database DB4 completed iteration 87 of 10
+2025-02-15 21:18:10.394 DEBUG: Database DB1 completed iteration 87 of 10
+2025-02-15 21:18:11.020 DEBUG: Database DB3 completed iteration 48 of 10
+2025-02-15 21:18:11.589 DEBUG: Database DB4 completed iteration 88 of 10
+2025-02-15 21:18:11.917 DEBUG: Database DB1 completed iteration 88 of 10
+2025-02-15 21:18:13.063 DEBUG: Database DB4 completed iteration 89 of 10
+2025-02-15 21:18:13.175 DEBUG: Database DB1 completed iteration 89 of 10
+2025-02-15 21:18:13.233 DEBUG: Database DB3 completed iteration 49 of 10
+2025-02-15 21:18:14.255 DEBUG: Database DB4 completed iteration 90 of 10
+2025-02-15 21:18:14.354 DEBUG: Database DB1 completed iteration 90 of 10
+2025-02-15 21:18:15.417 DEBUG: Database DB3 completed iteration 50 of 10
+2025-02-15 21:18:15.435 DEBUG: Database DB4 completed iteration 91 of 10
+2025-02-15 21:18:15.525 DEBUG: Database DB1 completed iteration 91 of 10
+2025-02-15 21:18:16.619 DEBUG: Database DB4 completed iteration 92 of 10
+2025-02-15 21:18:16.708 DEBUG: Database DB1 completed iteration 92 of 10
+2025-02-15 21:18:17.593 DEBUG: Database DB3 completed iteration 51 of 10
+2025-02-15 21:18:17.797 DEBUG: Database DB4 completed iteration 93 of 10
+2025-02-15 21:18:17.899 DEBUG: Database DB1 completed iteration 93 of 10
+2025-02-15 21:18:18.976 DEBUG: Database DB4 completed iteration 94 of 10
+2025-02-15 21:18:19.082 DEBUG: Database DB1 completed iteration 94 of 10
+2025-02-15 21:18:19.773 DEBUG: Database DB3 completed iteration 52 of 10
+2025-02-15 21:18:20.183 DEBUG: Database DB4 completed iteration 95 of 10
+2025-02-15 21:18:20.279 DEBUG: Database DB1 completed iteration 95 of 10
+2025-02-15 21:18:21.366 DEBUG: Database DB4 completed iteration 96 of 10
+2025-02-15 21:18:21.472 DEBUG: Database DB1 completed iteration 96 of 10
+2025-02-15 21:18:21.966 DEBUG: Database DB3 completed iteration 53 of 10
+2025-02-15 21:18:22.546 DEBUG: Database DB4 completed iteration 97 of 10
+2025-02-15 21:18:22.645 DEBUG: Database DB1 completed iteration 97 of 10
+2025-02-15 21:18:23.725 DEBUG: Database DB4 completed iteration 98 of 10
+2025-02-15 21:18:23.815 DEBUG: Database DB1 completed iteration 98 of 10
+2025-02-15 21:18:24.145 DEBUG: Database DB3 completed iteration 54 of 10
+2025-02-15 21:18:24.902 DEBUG: Database DB4 completed iteration 99 of 10
+2025-02-15 21:18:24.998 DEBUG: Database DB1 completed iteration 99 of 10
+2025-02-15 21:18:26.074 DEBUG: Database DB4 completed iteration 100 of 10
+2025-02-15 21:18:26.083 INFO: Completed test cycle for database: DB4
+2025-02-15 21:18:26.167 DEBUG: Database DB1 completed iteration 100 of 10
+2025-02-15 21:18:26.177 INFO: Completed test cycle for database: DB1
+2025-02-15 21:18:26.327 DEBUG: Database DB3 completed iteration 55 of 10
+2025-02-15 21:18:28.523 DEBUG: Database DB3 completed iteration 56 of 10
+2025-02-15 21:18:30.748 DEBUG: Database DB3 completed iteration 57 of 10
+2025-02-15 21:18:32.949 DEBUG: Database DB3 completed iteration 58 of 10
+2025-02-15 21:18:35.135 DEBUG: Database DB3 completed iteration 59 of 10
+2025-02-15 21:18:37.315 DEBUG: Database DB3 completed iteration 60 of 10
+2025-02-15 21:18:39.490 DEBUG: Database DB3 completed iteration 61 of 10
+2025-02-15 21:18:41.685 DEBUG: Database DB3 completed iteration 62 of 10
+2025-02-15 21:18:43.855 DEBUG: Database DB3 completed iteration 63 of 10
+2025-02-15 21:18:46.019 DEBUG: Database DB3 completed iteration 64 of 10
+2025-02-15 21:18:48.210 DEBUG: Database DB3 completed iteration 65 of 10
+2025-02-15 21:18:50.410 DEBUG: Database DB3 completed iteration 66 of 10
+2025-02-15 21:18:52.619 DEBUG: Database DB3 completed iteration 67 of 10
+2025-02-15 21:18:54.855 DEBUG: Database DB3 completed iteration 68 of 10
+2025-02-15 21:18:57.066 DEBUG: Database DB3 completed iteration 69 of 10
+2025-02-15 21:18:59.254 DEBUG: Database DB3 completed iteration 70 of 10
+2025-02-15 21:19:01.417 DEBUG: Database DB3 completed iteration 71 of 10
+2025-02-15 21:19:03.618 DEBUG: Database DB3 completed iteration 72 of 10
+2025-02-15 21:19:05.784 DEBUG: Database DB3 completed iteration 73 of 10
+2025-02-15 21:19:07.963 DEBUG: Database DB3 completed iteration 74 of 10
+2025-02-15 21:19:10.148 DEBUG: Database DB3 completed iteration 75 of 10
+2025-02-15 21:19:12.341 DEBUG: Database DB3 completed iteration 76 of 10
+2025-02-15 21:19:14.515 DEBUG: Database DB3 completed iteration 77 of 10
+2025-02-15 21:19:16.718 DEBUG: Database DB3 completed iteration 78 of 10
+2025-02-15 21:19:18.922 DEBUG: Database DB3 completed iteration 79 of 10
+2025-02-15 21:19:21.093 DEBUG: Database DB3 completed iteration 80 of 10
+2025-02-15 21:19:23.273 DEBUG: Database DB3 completed iteration 81 of 10
+2025-02-15 21:19:25.485 DEBUG: Database DB3 completed iteration 82 of 10
+2025-02-15 21:19:27.676 DEBUG: Database DB3 completed iteration 83 of 10
+2025-02-15 21:19:29.863 DEBUG: Database DB3 completed iteration 84 of 10
+2025-02-15 21:19:32.056 DEBUG: Database DB3 completed iteration 85 of 10
+2025-02-15 21:19:34.229 DEBUG: Database DB3 completed iteration 86 of 10
+2025-02-15 21:19:36.491 DEBUG: Database DB3 completed iteration 87 of 10
+2025-02-15 21:19:38.721 DEBUG: Database DB3 completed iteration 88 of 10
+2025-02-15 21:19:40.912 DEBUG: Database DB3 completed iteration 89 of 10
+2025-02-15 21:19:43.100 DEBUG: Database DB3 completed iteration 90 of 10
+2025-02-15 21:19:45.273 DEBUG: Database DB3 completed iteration 91 of 10
+2025-02-15 21:19:47.457 DEBUG: Database DB3 completed iteration 92 of 10
+2025-02-15 21:19:49.640 DEBUG: Database DB3 completed iteration 93 of 10
+2025-02-15 21:19:51.821 DEBUG: Database DB3 completed iteration 94 of 10
+2025-02-15 21:19:53.995 DEBUG: Database DB3 completed iteration 95 of 10
+2025-02-15 21:19:56.209 DEBUG: Database DB3 completed iteration 96 of 10
+2025-02-15 21:19:58.391 DEBUG: Database DB3 completed iteration 97 of 10
+2025-02-15 21:20:00.554 DEBUG: Database DB3 completed iteration 98 of 10
+2025-02-15 21:20:02.731 DEBUG: Database DB3 completed iteration 99 of 10
+2025-02-15 21:20:04.903 DEBUG: Database DB3 completed iteration 100 of 10
+2025-02-15 21:20:04.914 INFO: Completed test cycle for database: DB3
+2025-02-15 23:21:02.039 INFO: Starting test cycle for database: DB1
+2025-02-15 23:21:02.055 INFO: Starting test cycle for database: DB3
+2025-02-15 23:21:02.055 INFO: Starting test cycle for database: DB5
+2025-02-15 23:21:02.056 INFO: Starting test cycle for database: DB4
+2025-02-15 23:21:02.056 INFO: Starting test cycle for database: DB6
+2025-02-15 23:21:03.808 DEBUG: Database DB6 completed iteration 1 of 10
+2025-02-15 23:21:03.814 DEBUG: Database DB5 completed iteration 1 of 10
+2025-02-15 23:21:03.814 DEBUG: Database DB3 completed iteration 1 of 10
+2025-02-15 23:21:03.814 DEBUG: Database DB4 completed iteration 1 of 10
+2025-02-15 23:21:03.815 DEBUG: Database DB1 completed iteration 1 of 10
+2025-02-15 23:21:04.180 DEBUG: Database DB5 completed iteration 2 of 10
+2025-02-15 23:21:04.241 DEBUG: Database DB6 completed iteration 2 of 10
+2025-02-15 23:21:04.452 DEBUG: Database DB5 completed iteration 3 of 10
+2025-02-15 23:21:04.630 DEBUG: Database DB6 completed iteration 3 of 10
+2025-02-15 23:21:04.741 DEBUG: Database DB5 completed iteration 4 of 10
+2025-02-15 23:21:05.029 DEBUG: Database DB1 completed iteration 2 of 10
+2025-02-15 23:21:05.031 DEBUG: Database DB4 completed iteration 2 of 10
+2025-02-15 23:21:05.041 DEBUG: Database DB5 completed iteration 5 of 10
+2025-02-15 23:21:05.050 DEBUG: Database DB6 completed iteration 4 of 10
+2025-02-15 23:21:05.334 DEBUG: Database DB5 completed iteration 6 of 10
+2025-02-15 23:21:05.447 DEBUG: Database DB6 completed iteration 5 of 10
+2025-02-15 23:21:05.609 DEBUG: Database DB5 completed iteration 7 of 10
+2025-02-18 15:13:16.899 INFO: Starting test cycle for database: DB1
+2025-02-18 15:13:16.911 INFO: Starting test cycle for database: DB3
+2025-02-18 15:13:16.911 INFO: Starting test cycle for database: DB5
+2025-02-18 15:13:16.911 INFO: Starting test cycle for database: DB4
+2025-02-18 15:13:16.912 INFO: Starting test cycle for database: DB6
+2025-02-18 15:13:17.933 DEBUG: Database DB6 completed iteration 1 of 10
+2025-02-18 15:13:17.937 DEBUG: Database DB5 completed iteration 1 of 10
+2025-02-18 15:13:17.942 DEBUG: Database DB4 completed iteration 1 of 10
+2025-02-18 15:13:17.946 DEBUG: Database DB3 completed iteration 1 of 10
+2025-02-18 15:13:17.971 DEBUG: Database DB1 completed iteration 1 of 10
+2025-02-18 15:13:18.169 DEBUG: Database DB5 completed iteration 2 of 10
+2025-02-18 15:13:18.261 DEBUG: Database DB6 completed iteration 2 of 10
+2025-02-18 15:13:18.384 DEBUG: Database DB5 completed iteration 3 of 10
+2025-02-18 15:13:18.591 DEBUG: Database DB6 completed iteration 3 of 10
+2025-02-18 15:13:18.625 DEBUG: Database DB5 completed iteration 4 of 10
+2025-02-18 15:13:18.843 DEBUG: Database DB5 completed iteration 5 of 10
+2025-02-18 15:13:18.927 DEBUG: Database DB6 completed iteration 4 of 10
+2025-02-18 15:13:19.079 DEBUG: Database DB5 completed iteration 6 of 10
+2025-02-18 15:13:19.081 DEBUG: Database DB4 completed iteration 2 of 10
+2025-02-18 15:13:19.113 DEBUG: Database DB1 completed iteration 2 of 10
+2025-02-18 15:13:19.252 DEBUG: Database DB6 completed iteration 5 of 10
+2025-02-18 15:13:19.308 DEBUG: Database DB5 completed iteration 7 of 10
+2025-02-18 15:13:19.526 DEBUG: Database DB5 completed iteration 8 of 10
+2025-02-18 15:13:19.570 DEBUG: Database DB6 completed iteration 6 of 10
+2025-02-18 15:13:19.749 DEBUG: Database DB5 completed iteration 9 of 10
+2025-02-18 15:13:19.891 DEBUG: Database DB6 completed iteration 7 of 10
