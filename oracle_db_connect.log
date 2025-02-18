@@ -2829,3 +2829,22 @@ https://docs.oracle.com/error-help/db/ora-12263/
 2025-02-18 20:56:04.812 DEBUG: Database DB1 completed iteration 60 of 100
 2025-02-18 20:56:04.823 DEBUG: Database DB4 completed iteration 61 of 100
 2025-02-18 20:56:05.067 DEBUG: Database DB3 completed iteration 33 of 100
+2025-02-18 21:35:56.174 SEVERE: Error: \conf\sql.properties (The system cannot find the path specified)
+2025-02-18 21:36:12.295 INFO: Starting test cycle for database: DB6
+2025-02-18 21:36:12.302 INFO: Starting test cycle for database: DB5
+2025-02-18 21:36:12.302 INFO: Starting test cycle for database: DB4
+2025-02-18 21:36:12.302 INFO: Starting test cycle for database: DB3
+2025-02-18 21:36:12.302 INFO: Starting test cycle for database: DB1
+2025-02-18 21:36:13.680 DEBUG: Database DB4 completed iteration 1 of 100
+2025-02-18 21:36:13.680 DEBUG: Database DB6 completed iteration 1 of 100
+2025-02-18 21:36:13.685 DEBUG: Database DB5 completed iteration 1 of 100
+2025-02-18 21:36:13.685 DEBUG: Database DB3 completed iteration 1 of 100
+2025-02-18 21:36:13.690 DEBUG: Database DB1 completed iteration 1 of 100
+2025-02-18 21:36:13.923 DEBUG: Database DB5 completed iteration 2 of 100
+2025-02-18 21:36:14.022 DEBUG: Database DB6 completed iteration 2 of 100
+2025-02-18 21:36:14.160 DEBUG: Database DB5 completed iteration 3 of 100
+2025-02-18 21:36:14.366 DEBUG: Database DB6 completed iteration 3 of 100
+2025-02-18 21:36:14.397 DEBUG: Database DB5 completed iteration 4 of 100
+2025-02-18 21:36:14.643 DEBUG: Database DB5 completed iteration 5 of 100
+2025-02-18 21:36:14.714 DEBUG: Database DB6 completed iteration 4 of 100
+2025-02-18 21:36:14.827 DEBUG: Database DB4 completed iteration 2 of 100

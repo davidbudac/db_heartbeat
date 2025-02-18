@@ -129,7 +129,7 @@ public class OracleDBConnect {
         try {
             // Load global configuration
             configProps = new Properties();
-            configProps.load(new FileInputStream("config.properties"));
+            configProps.load(new FileInputStream("./conf/config.properties"));
             
             // Get number of iterations from config, default to 10 if not specified
             iterations = Integer.parseInt(configProps.getProperty("test.iterations", "10"));
@@ -144,11 +144,11 @@ public class OracleDBConnect {
 
             // Load SQL statements
             sqlProps = new Properties();
-            sqlProps.load(new FileInputStream("sql.properties"));
+            sqlProps.load(new FileInputStream("./conf/sql.properties"));
 
             // Load database configurations
             Properties dbProps = new Properties();
-            dbProps.load(new FileInputStream("databases.properties"));
+            dbProps.load(new FileInputStream("./conf/databases.properties"));
 
             // Get all unique database prefixes (db1, db2, etc.)
             Set<String> dbPrefixes = new HashSet<>();
