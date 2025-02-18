@@ -131,7 +131,7 @@ public class OracleDBConnect {
         try {
             // Load global configuration
             configProps = new Properties();
-            configProps.load(new FileInputStream("config.properties"));
+            configProps.load(new FileInputStream("config/config.properties"));
             
             // Get number of iterations from config, default to 10 if not specified
             iterations = Integer.parseInt(configProps.getProperty("test.iterations", "10"));
@@ -144,11 +144,11 @@ public class OracleDBConnect {
 
             // Load SQL statements
             sqlProps = new Properties();
-            sqlProps.load(new FileInputStream("sql.properties"));
+            sqlProps.load(new FileInputStream("config/sql.properties"));
 
             // Load database configurations
             Properties dbProps = new Properties();
-            dbProps.load(new FileInputStream("databases.properties"));
+            dbProps.load(new FileInputStream("config/databases.properties"));
 
             // Get all unique database prefixes (db1, db2, etc.)
             Set<String> dbPrefixes = new HashSet<>();
@@ -220,7 +220,7 @@ public class OracleDBConnect {
             Level debugLevel = Level.FINE; // For clarity
 
             // Configure standard logging with custom formatter
-            FileHandler fileHandler = new FileHandler("oracle_db_connect.log", true);
+            FileHandler fileHandler = new FileHandler("logs/oracle_db_connect.log", true);
             fileHandler.setLevel(debugLevel);
             fileHandler.setFormatter(new Formatter() {
                 @Override
@@ -238,7 +238,7 @@ public class OracleDBConnect {
             LOGGER.addHandler(fileHandler);
             
             // Configure CSV logging
-            FileHandler csvHandler = new FileHandler("log.csv", true);
+            FileHandler csvHandler = new FileHandler("logs/log.csv", true);
             csvHandler.setFormatter(new Formatter() {
                 @Override
                 public String format(LogRecord record) {
