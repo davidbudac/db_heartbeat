@@ -1,4 +1,4 @@
-set ORACLE_HOME=c:\app\client\david\product\19.0.0\client_1
+if "%ORACLE_HOME%"=="" set ORACLE_HOME=c:\app\client\david\product\19.0.0\client_1
 
 cp %ORACLE_HOME%\jdbc\lib\ojdbc8.jar .\lib
 cp %ORACLE_HOME%\jlib\oraclepki.jar .\lib

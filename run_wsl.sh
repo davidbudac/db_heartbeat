@@ -1,4 +1,6 @@
-export ORACLE_HOME=/mnt/c/app/client/david/product/19.0.0/client_1
+if [ -z "${ORACLE_HOME}" ]; then
+    export ORACLE_HOME=/mnt/c/app/client/david/product/19.0.0/client_1
+fi
 
 cp $ORACLE_HOME/jdbc/lib/ojdbc8.jar ./lib
 cp $ORACLE_HOME/jlib/oraclepki.jar ./lib
