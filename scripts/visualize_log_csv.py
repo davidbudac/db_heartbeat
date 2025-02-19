@@ -6,7 +6,7 @@ import io
 import base64
 import argparse
 from dash import Dash, dcc, html
-from dash.dependencies import Input, Output
+from dash.dependencies import Input, Output, ALL
 
 # Modify the generate_report_plotly function to create an interactive Dash app
 def generate_report_plotly(df, filename="database_performance_report.html", port=8050):
@@ -26,26 +26,26 @@ def generate_report_plotly(df, filename="database_performance_report.html", port
             # Filter controls in a row
             html.Div([
                 html.Div([
-                    html.Label('Database Filter:', style={'fontWeight': 'bold'}),
-                    dcc.Dropdown(
+                    html.Label('Database Filter:', style={'fontWeight': 'bold', 'marginBottom': '10px', 'display': 'block'}),
+                    dcc.Checklist(
                         id='database-filter',
                         options=[{'label': db, 'value': db} for db in databases],
                         value=databases,
-                        multi=True,
-                        style={'width': '100%'}
-                    ),
-                ], style={'width': '48%', 'display': 'inline-block'}),
+                        inline=True,
+                        labelStyle={'marginRight': '15px'}
+                    )
+                ], style={'width': '100%', 'marginBottom': '20px'}),
                 
                 html.Div([
-                    html.Label('Operation Filter:', style={'fontWeight': 'bold'}),
-                    dcc.Dropdown(
+                    html.Label('Operation Filter:', style={'fontWeight': 'bold', 'marginBottom': '10px', 'display': 'block'}),
+                    dcc.Checklist(
                         id='operation-filter',
                         options=[{'label': op, 'value': op} for op in operations],
                         value=operations,
-                        multi=True,
-                        style={'width': '100%'}
-                    ),
-                ], style={'width': '48%', 'display': 'inline-block', 'marginLeft': '4%'}),
+                        inline=True,
+                        labelStyle={'marginRight': '15px'}
+                    )
+                ], style={'width': '100%'})
             ], style={'padding': '20px'}),
         ], style={'backgroundColor': '#f8f9fa', 'padding': '20px', 'boxShadow': '0 2px 4px rgba(0,0,0,0.1)'}),
 
@@ -102,29 +102,39 @@ def generate_report_plotly(df, filename="database_performance_report.html", port
          Input('operation-filter', 'value')]
     )
     def update_graphs(selected_dbs, selected_ops):
+        # Filter dataframe based on selections
         filtered_df = df[
             (df['database'].isin(selected_dbs)) &
             (df['operation'].isin(selected_ops))
         ]
         
-        # Raw duration time series
+        # Define symbols for different operations
+        operation_symbols = {op: i for i, op in enumerate(operations)}
+        
+        # Raw duration time series with symbols
         fig_raw = go.Figure()
         for db in selected_dbs:
             db_data = filtered_df[filtered_df['database'] == db]
-            fig_raw.add_trace(go.Scatter(
-                x=db_data['timestamp'],
-                y=db_data['duration_ms'],
-                name=db,
-                mode='lines',
-                connectgaps=False,
-                hovertemplate="<b>%{text}</b><br>" +
-                            "Database: " + db + "<br>" +
-                            "Time: %{x}<br>" +
-                            "Duration: %{y:.2f} ms<br>" +
-                            "<extra></extra>",
-                text=db_data['operation']  # Operation shows in bold at top
-            ))
-        
+            for op in selected_ops:
+                op_data = db_data[db_data['operation'] == op]
+                fig_raw.add_trace(go.Scatter(
+                    x=op_data['timestamp'],
+                    y=op_data['duration_ms'],
+                    name=f"{db} - {op}",
+                    mode='markers',
+                    marker=dict(
+                        size=6,
+                        symbol=operation_symbols[op],
+                    ),
+                    hovertemplate="<b>%{text}</b><br>" +
+                                "Database: " + db + "<br>" +
+                                "Operation: " + op + "<br>" +
+                                "Time: %{x}<br>" +
+                                "Duration: %{y:.2f} ms<br>" +
+                                "<extra></extra>",
+                    text=op_data['operation']
+                ))
+
         fig_raw.update_layout(
             title='Raw Operation Duration Over Time',
             xaxis_title='Timestamp',
@@ -132,23 +142,29 @@ def generate_report_plotly(df, filename="database_performance_report.html", port
             showlegend=True
         )
 
-        # Raw time between operations line chart
+        # Raw time between operations with symbols
         fig_raw_between = go.Figure()
         for db in selected_dbs:
             db_data = filtered_df[filtered_df['database'] == db]
-            fig_raw_between.add_trace(go.Scatter(
-                x=db_data['timestamp'],
-                y=db_data['time_between_ms'],
-                name=db,
-                mode='lines',
-                connectgaps=False,
-                hovertemplate="<b>%{text}</b><br>" +
-                            "Database: " + db + "<br>" +
-                            "Time: %{x}<br>" +
-                            "Time Between: %{y:.2f} ms<br>" +
-                            "<extra></extra>",
-                text=db_data['operation']  # Operation shows in bold at top
-            ))
+            for op in selected_ops:
+                op_data = db_data[db_data['operation'] == op]
+                fig_raw_between.add_trace(go.Scatter(
+                    x=op_data['timestamp'],
+                    y=op_data['time_between_ms'],
+                    name=f"{db} - {op}",
+                    mode='markers',
+                    marker=dict(
+                        size=6,
+                        symbol=operation_symbols[op],
+                    ),
+                    hovertemplate="<b>%{text}</b><br>" +
+                                "Database: " + db + "<br>" +
+                                "Operation: " + op + "<br>" +
+                                "Time: %{x}<br>" +
+                                "Time Between: %{y:.2f} ms<br>" +
+                                "<extra></extra>",
+                    text=op_data['operation']
+                ))
         
         fig_raw_between.update_layout(
             title='Raw Time Between Operations Over Time',
@@ -172,46 +188,29 @@ def generate_report_plotly(df, filename="database_performance_report.html", port
                      title='Operation Duration by Database',
                      color='database', log_y=True)
         
-        # Time series with gap handling
+        # Rolling average time series with symbols
         fig4 = go.Figure()
         for db in selected_dbs:
             db_data = filtered_df[filtered_df['database'] == db]
-            
-            # Calculate rolling average
-            db_data['rolling_duration'] = db_data['duration_ms'].rolling(window=50).mean()
-            
-            # Add gaps where time difference is too large (e.g., > 5 minutes)
-            time_diff = db_data['timestamp'].diff().dt.total_seconds()
-            gap_mask = time_diff > 300  # 5 minutes in seconds
-            
-            # Split data into segments where gaps occur
-            segments = []
-            current_segment = []
-            
-            for idx, row in db_data.iterrows():
-                if idx in gap_mask[gap_mask].index:
-                    if current_segment:
-                        segments.append(current_segment)
-                        current_segment = []
-                current_segment.append(row)
-            if current_segment:
-                segments.append(current_segment)
-            
-            # Plot each segment separately
-            for segment in segments:
-                segment_df = pd.DataFrame(segment)
+            for op in selected_ops:
+                op_data = db_data[db_data['operation'] == op]
+                op_data['rolling_duration'] = op_data['duration_ms'].rolling(window=50).mean()
                 fig4.add_trace(go.Scatter(
-                    x=segment_df['timestamp'],
-                    y=segment_df['rolling_duration'],
-                    name=db,
-                    mode='lines',
-                    connectgaps=False,
+                    x=op_data['timestamp'],
+                    y=op_data['rolling_duration'],
+                    name=f"{db} - {op}",
+                    mode='markers',
+                    marker=dict(
+                        size=8,
+                        symbol=operation_symbols[op],
+                    ),
                     hovertemplate="<b>%{text}</b><br>" +
                                 "Database: " + db + "<br>" +
+                                "Operation: " + op + "<br>" +
                                 "Time: %{x}<br>" +
                                 "Rolling Avg Duration: %{y:.2f} ms<br>" +
                                 "<extra></extra>",
-                    text=segment_df['operation']  # Operation shows in bold at top
+                    text=op_data['operation']
                 ))
         
         fig4.update_layout(
